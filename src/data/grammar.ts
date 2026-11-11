@@ -1,0 +1,30 @@
+// New teaching material; source document examples remain separately preserved.
+export const grammar = [
+['主谓','谁 + 做什么','动作本身就完整，不一定需要“做的对象”。','Sensors work.','The temperature rises.','温度升高了。','rise 后不直接接温度这个宾语；raise 后才接被提高的东西。'],
+['主谓宾','谁 + 做什么 + 对象','先找动作，再找动作的对象。','I read papers.','We collect sensor data.','我们采集传感器数据。','不要漏掉 collect 的对象。'],
+['主系表','谁/什么 + be + 状态','描述是什么、怎么样时，英语通常需要 be。','AI is useful.','The signal is stable.','信号很稳定。','不能写 The signal stable。'],
+['主谓宾宾','谁 + 动作 + 人 + 东西','表示给谁什么；也可用 give something to someone。','She gave me a book.','My supervisor gave me useful advice.','导师给了我有用的建议。','advice 不可数，不写 an advice。'],
+['主谓宾补','谁 + 动作 + 对象 + 对象的状态','最后一部分补充说明对象变成什么样。','Music makes me happy.','Calibration makes the sensor more reliable.','校准使传感器更可靠。','不能写 makes the sensor is reliable。'],
+['to do','动词 + to + 原形','想做、计划做的动作常用 to do。','I want to learn.','We plan to test the circuit.','我们计划测试电路。','不要写 plan to testing。'],
+['doing','动词 + doing','某些动词后把动作当作一件事。','I enjoy reading.','We avoid using noisy data.','我们避免使用噪声数据。','avoid 后不用 to use。'],
+['done','be + 过去分词','对象被别人处理时，使用被动结构。','The door is closed.','The data were collected yesterday.','数据昨天被采集。','过去分词不是完整谓语，别漏 be。'],
+['介词 + doing','介词 + 动词 ing','介词后说动作，用 doing。','I am good at swimming.','I focus on improving sensor stability.','我专注于提高传感器稳定性。','focus on improve 应为 improving。'],
+['宾语 + 不定式','动词 + 人 + to do','说谁被允许、鼓励或要求做什么。','She asked me to wait.','The software enables us to analyze signals.','软件让我们能够分析信号。','enable us analyze 缺少 to。'],
+['宾语 + 原形','make / let / help + 人 + do','make 和 let 的主动句不用 to；help 可有可无。','Let me try.','The result made me rethink the model.','结果让我重新思考模型。','主动 made me to rethink 应去掉 to。'],
+['宾语从句','I think (that) + 完整句子','把一个完整观点放在 think 后。','I think that AI is useful.','I think that AI helps students understand complex concepts.','我认为人工智能帮助学生理解复杂概念。','从句用陈述语序，不用问句语序。'],
+['定语从句','名词 + that / which + 描述','紧跟一个名词，告诉读者是哪一个。','I use a tool that saves time.','The sensor that we developed detects gas changes.','我们开发的传感器能检测气体变化。','不要重复主语：the sensor that it detects。'],
+['主语从句','What ... + 谓语','把“什么事情”整个作为句子主语。','What you said matters.','What we need is reliable data.','我们需要的是可靠的数据。','What we need 后仍需主句谓语 is。'],
+['表语从句','主语 + be + that + 完整句子','解释原因、问题或事实具体是什么。','The truth is that I forgot.','The problem is that the signal drifts.','问题在于信号会漂移。','be 后从句内部仍需要自己的谓语。'],
+['原因状语从句','主句 + because + 原因','先说明做什么，再补充为什么。','I study because I am curious.','We calibrate the sensor because humidity affects it.','我们校准传感器，因为湿度会影响它。','because 和 so 不要在同一组因果连接中重复。'],
+['条件状语从句','If + 条件, 主句','把一个动作成立的条件说清楚。','If it rains, I will stay home.','If we collect more data, we will improve the model.','如果采集更多数据，我们将改进模型。','谈将来时 if 从句通常用现在时。'],
+['让步状语从句','Although + 情况, 主句','承认一个情况，再表达另一个仍然成立的事实。','Although it is hard, I will try.','Although the model is simple, it provides reliable results.','虽然模型简单，它仍提供可靠结果。','Although 与 but 不要重复连接同一对句子。'],
+['时间状语从句','When + 时间事件, 主句','用一个事件说明另一个事件发生的时间。','When I arrive, I will call you.','When the test ends, we will analyze the data.','测试结束时，我们将分析数据。','表示将来时，when 从句一般不用 will。'],
+['目的状语从句','主句 + so that + can / could ...','说明做这件事是为了什么。','I speak slowly so that you can understand.','We filter the data so that we can reduce noise.','我们过滤数据以减少噪声。','so that 后接完整句子，不是单个动词。'],
+['结果状语从句','so + 形容词 + that + 结果','说明程度很高，因此出现某个结果。','It is so cold that I stay inside.','The signal is so weak that we cannot detect it.','信号太弱，以至于我们无法检测到它。','so 后接形容词；名词结构常需 such。'],
+['复杂句组合','观点 + that 从句 + because 原因','先写清一句观点，再只加一个逻辑关系。','I think AI is useful because it saves time.','I think that the model is useful because it detects sensor drift.','我认为模型有用，因为它能检测传感器漂移。','每个从句都检查主语与谓语，避免只有连接词没有完整句子。'],
+].map((r,i)=>({id:`grammar-${i+1}`,english:r[0],grammar_pattern:r[1],chinese:r[2],simple:r[3],example_en:r[4],example_zh:r[5],common_mistakes:[r[6]],stage:i<5?1:i<11?2:i<21?3:4,source:'added',transfer:'把例句中的对象换成你自己的实验、模型或博士计划，保留句型，写一个新句子。'}));
+export const topics: Record<string,string[]>={
+'IELTS Part 3':['人工智能是否会改变大学教育？','科技能否改善人们的生活？','城市应如何降低能源消耗？','政府为什么应投资环境保护？','社会是否过度依赖科技？'],
+'TOEFL Speaking':['你更喜欢独自学习还是小组学习？','你认为大学是否应开放更多实验室？','学生应该学习编程吗？'],
+'CET-6':['翻译：科研合作能够促进技术发展，并帮助学生独立思考。','写两句话谈谈科技与环境保护。','翻译：我们应该从不同角度看待人工智能。'],
+'PhD Interview':['用两句话介绍你的专业和科研兴趣。','为什么想去日本读博？','为什么喜欢电力电子？','为什么传感器需要湿度补偿？','你如何设计实验并验证模型？','为什么选择这位导师？','介绍未来三年的研究规划。','科研人员为什么需要独立思考？']};

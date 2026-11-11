@@ -1,0 +1,9 @@
+export type Event = {id:string;item:string;kind:'review'|'favorite'|'practice'|'draft'|'goal';at:number;grade?:number;text?:string;enabled?:boolean;mode?:string};
+export type State={version:1;events:Event[]};
+export const empty=():State=>({version:1,events:[]});
+export function validate(value:unknown):State {const s=value as State;if(!s||s.version!==1||!Array.isArray(s.events)||s.events.length>200000)throw Error('备份格式不支持');const kinds=['review','favorite','practice','draft','goal'];for(const e of s.events){if(!e||typeof e.id!=='string'||typeof e.item!=='string'||!Number.isFinite(e.at)||!kinds.includes(e.kind)||e.text!==undefined&&typeof e.text!=='string'||e.kind==='review'&&![0,1,2].includes(e.grade!)||e.kind==='favorite'&&typeof e.enabled!=='boolean')throw Error('备份记录损坏');}return s;}
+export function merge(a:State,b:State):State{return {version:1,events:[...new Map([...a.events,...b.events].map(e=>[e.id,e])).values()].sort((a,b)=>a.at-b.at||a.id.localeCompare(b.id))};}
+export function progress(events:Event[],id:string){let interval=0,due=0,streak=0,misses=0;const reviews=events.filter(e=>e.item===id&&e.kind==='review').sort((a,b)=>a.at-b.at||a.id.localeCompare(b.id));for(const e of reviews){if(e.grade===0){interval=0;streak=0;misses++;due=e.at+600000;}else if(e.grade===1){interval=1;streak=0;due=e.at+86400000;}else{streak++;interval=interval<1?2:Math.min(180,interval*2);due=e.at+interval*86400000;}}return {due,interval,streak,misses,seen:reviews.length>0,mastered:streak>=3};}
+export function favorite(events:Event[],id:string){return events.filter(e=>e.item===id&&e.kind==='favorite').at(-1)?.enabled||false;}
+export function load(key:string):State{const s=localStorage.getItem(key);return s?validate(JSON.parse(s)):empty();}
+export function save(key:string,s:State){localStorage.setItem(key,JSON.stringify(s));}

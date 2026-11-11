@@ -1,0 +1,6110 @@
+[
+  {
+    "id": "word-22-r1-want",
+    "english": "want to do",
+    "chinese": "想要做",
+    "category": "A. 动词 + to do（不定式）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "want + to + 动词原形",
+    "example_en": "I want to pursue a PhD in Japan.",
+    "example_zh": "我想要去日本读博。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-22 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "want / hope / plan to do",
+    "original": [
+      "want / hope / plan to do",
+      "想要 / 希望 / 计划做",
+      "I hope to pursue a PhD in Japan.",
+      "我希望去日本读博。"
+    ],
+    "alternative": "would like to do"
+  },
+  {
+    "id": "word-22-r1-hope",
+    "english": "hope to do",
+    "chinese": "希望做",
+    "category": "A. 动词 + to do（不定式）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "hope + to + 动词原形",
+    "example_en": "I hope to pursue a PhD in Japan.",
+    "example_zh": "我希望去日本读博。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-22 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "want / hope / plan to do",
+    "original": [
+      "want / hope / plan to do",
+      "想要 / 希望 / 计划做",
+      "I hope to pursue a PhD in Japan.",
+      "我希望去日本读博。"
+    ],
+    "alternative": "wish to do"
+  },
+  {
+    "id": "word-22-r1-plan",
+    "english": "plan to do",
+    "chinese": "计划做",
+    "category": "A. 动词 + to do（不定式）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "plan + to + 动词原形",
+    "example_en": "I plan to pursue a PhD in Japan.",
+    "example_zh": "我计划去日本读博。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-22 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "want / hope / plan to do",
+    "original": [
+      "want / hope / plan to do",
+      "想要 / 希望 / 计划做",
+      "I hope to pursue a PhD in Japan.",
+      "我希望去日本读博。"
+    ],
+    "alternative": "intend to do"
+  },
+  {
+    "id": "word-22-r2",
+    "english": "decide to do",
+    "chinese": "决定做",
+    "category": "A. 动词 + to do（不定式）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "decide to do",
+    "example_en": "I decided to focus on power electronics.",
+    "example_zh": "我决定专注于电力电子。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-22 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "decide to do",
+    "original": [
+      "decide to do",
+      "决定做",
+      "I decided to focus on power electronics.",
+      "我决定专注于电力电子。"
+    ],
+    "alternative": "make a decision to do"
+  },
+  {
+    "id": "word-22-r3",
+    "english": "need to do",
+    "chinese": "需要做",
+    "category": "A. 动词 + to do（不定式）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "need to do",
+    "example_en": "We need to improve the sensor's stability.",
+    "example_zh": "我们需要提高传感器的稳定性。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-22 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "need to do",
+    "original": [
+      "need to do",
+      "需要做",
+      "We need to improve the sensor's stability.",
+      "我们需要提高传感器的稳定性。"
+    ],
+    "alternative": "have to do（强调必须）"
+  },
+  {
+    "id": "word-22-r4",
+    "english": "learn to do",
+    "chinese": "学习做",
+    "category": "A. 动词 + to do（不定式）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "learn to do",
+    "example_en": "I am learning to use COMSOL.",
+    "example_zh": "我正在学习使用 COMSOL。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-22 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "learn to do",
+    "original": [
+      "learn to do",
+      "学习做",
+      "I am learning to use COMSOL.",
+      "我正在学习使用 COMSOL。"
+    ],
+    "alternative": "learn how to do"
+  },
+  {
+    "id": "word-22-r5",
+    "english": "fail to do",
+    "chinese": "未能做",
+    "category": "A. 动词 + to do（不定式）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "fail to do",
+    "example_en": "The sensor failed to detect a weak signal.",
+    "example_zh": "传感器未能检测到微弱信号。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-22 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "fail to do",
+    "original": [
+      "fail to do",
+      "未能做",
+      "The sensor failed to detect a weak signal.",
+      "传感器未能检测到微弱信号。"
+    ],
+    "alternative": "be unable to do"
+  },
+  {
+    "id": "word-22-r6",
+    "english": "tend to do",
+    "chinese": "往往会；倾向于",
+    "category": "A. 动词 + to do（不定式）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "tend to do",
+    "example_en": "Small sensors tend to be affected by humidity.",
+    "example_zh": "小型传感器往往容易受到湿度影响。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-22 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "tend to do",
+    "original": [
+      "tend to do",
+      "往往会；倾向于",
+      "Small sensors tend to be affected by humidity.",
+      "小型传感器往往容易受到湿度影响。"
+    ],
+    "alternative": "be likely to do"
+  },
+  {
+    "id": "word-22-r7",
+    "english": "try to do",
+    "chinese": "努力/尝试做",
+    "category": "A. 动词 + to do（不定式）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "try to do",
+    "example_en": "I will try to solve the problem.",
+    "example_zh": "我会努力解决这个问题。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-22 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "try to do",
+    "original": [
+      "try to do",
+      "努力/尝试做",
+      "I will try to solve the problem.",
+      "我会努力解决这个问题。"
+    ],
+    "alternative": "attempt to do"
+  },
+  {
+    "id": "word-22-r8",
+    "english": "prepare to do",
+    "chinese": "准备做",
+    "category": "A. 动词 + to do（不定式）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "prepare to do",
+    "example_en": "I am preparing to apply for a PhD program.",
+    "example_zh": "我正在准备申请博士项目。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-22 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "prepare to do",
+    "original": [
+      "prepare to do",
+      "准备做",
+      "I am preparing to apply for a PhD program.",
+      "我正在准备申请博士项目。"
+    ],
+    "alternative": "get ready to do"
+  },
+  {
+    "id": "word-25-r1",
+    "english": "enjoy doing",
+    "chinese": "喜欢做",
+    "category": "B. 动词 + doing（动名词）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "enjoy doing",
+    "example_en": "I enjoy reading research papers.",
+    "example_zh": "我喜欢阅读科研论文。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-25 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "enjoy doing",
+    "original": [
+      "enjoy doing",
+      "喜欢做",
+      "I enjoy reading research papers.",
+      "我喜欢阅读科研论文。"
+    ],
+    "alternative": "like doing"
+  },
+  {
+    "id": "word-25-r2",
+    "english": "avoid doing",
+    "chinese": "避免做",
+    "category": "B. 动词 + doing（动名词）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "avoid doing",
+    "example_en": "We should avoid using noisy data.",
+    "example_zh": "我们应该避免使用噪声数据。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-25 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "avoid doing",
+    "original": [
+      "avoid doing",
+      "避免做",
+      "We should avoid using noisy data.",
+      "我们应该避免使用噪声数据。"
+    ],
+    "alternative": "refrain from doing"
+  },
+  {
+    "id": "word-25-r3",
+    "english": "consider doing",
+    "chinese": "考虑做",
+    "category": "B. 动词 + doing（动名词）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "consider doing",
+    "example_en": "I am considering studying sensor materials.",
+    "example_zh": "我正在考虑研究传感器材料。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-25 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "consider doing",
+    "original": [
+      "consider doing",
+      "考虑做",
+      "I am considering studying sensor materials.",
+      "我正在考虑研究传感器材料。"
+    ],
+    "alternative": "think about doing"
+  },
+  {
+    "id": "word-25-r4",
+    "english": "finish doing",
+    "chinese": "完成做某事",
+    "category": "B. 动词 + doing（动名词）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "finish doing",
+    "example_en": "We finished collecting the sensor data.",
+    "example_zh": "我们完成了传感器数据采集。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-25 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "finish doing",
+    "original": [
+      "finish doing",
+      "完成做某事",
+      "We finished collecting the sensor data.",
+      "我们完成了传感器数据采集。"
+    ],
+    "alternative": "complete a task"
+  },
+  {
+    "id": "word-25-r5",
+    "english": "keep doing",
+    "chinese": "持续做",
+    "category": "B. 动词 + doing（动名词）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "keep doing",
+    "example_en": "Keep testing the circuit under different loads.",
+    "example_zh": "持续测试电路在不同负载下的表现。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-25 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "keep doing",
+    "original": [
+      "keep doing",
+      "持续做",
+      "Keep testing the circuit under different loads.",
+      "持续测试电路在不同负载下的表现。"
+    ],
+    "alternative": "continue doing"
+  },
+  {
+    "id": "word-25-r6",
+    "english": "practice doing",
+    "chinese": "练习做",
+    "category": "B. 动词 + doing（动名词）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "practice doing",
+    "example_en": "I practice speaking English every day.",
+    "example_zh": "我每天练习说英语。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-25 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "practice doing",
+    "original": [
+      "practice doing",
+      "练习做",
+      "I practice speaking English every day.",
+      "我每天练习说英语。"
+    ],
+    "alternative": "rehearse（演练时）"
+  },
+  {
+    "id": "word-25-r7",
+    "english": "suggest doing",
+    "chinese": "建议做",
+    "category": "B. 动词 + doing（动名词）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "suggest doing",
+    "example_en": "I suggest comparing three different models.",
+    "example_zh": "我建议比较三种不同模型。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-25 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "suggest doing",
+    "original": [
+      "suggest doing",
+      "建议做",
+      "I suggest comparing three different models.",
+      "我建议比较三种不同模型。"
+    ],
+    "alternative": "recommend doing"
+  },
+  {
+    "id": "word-25-r8",
+    "english": "mind doing",
+    "chinese": "介意做",
+    "category": "B. 动词 + doing（动名词）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "mind doing",
+    "example_en": "I do not mind explaining my project again.",
+    "example_zh": "我不介意再次解释我的项目。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-25 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "mind doing",
+    "original": [
+      "mind doing",
+      "介意做",
+      "I do not mind explaining my project again.",
+      "我不介意再次解释我的项目。"
+    ],
+    "alternative": "object to doing（语气更强）"
+  },
+  {
+    "id": "word-28-r1",
+    "english": "allow sb. to do",
+    "chinese": "允许某人做",
+    "category": "C. 动词 + 人/物 + to do",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "allow sb. to do",
+    "example_en": "The software allows users to view real-time data.",
+    "example_zh": "软件允许用户查看实时数据。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-28 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "allow sb. to do",
+    "original": [
+      "allow sb. to do",
+      "允许某人做",
+      "The software allows users to view real-time data.",
+      "软件允许用户查看实时数据。"
+    ],
+    "alternative": "permit sb. to do"
+  },
+  {
+    "id": "word-28-r2",
+    "english": "enable sb. to do",
+    "chinese": "使某人能够做",
+    "category": "C. 动词 + 人/物 + to do",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "enable sb. to do",
+    "example_en": "The sensor enables us to detect gas changes.",
+    "example_zh": "传感器使我们能够检测气体变化。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-28 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "enable sb. to do",
+    "original": [
+      "enable sb. to do",
+      "使某人能够做",
+      "The sensor enables us to detect gas changes.",
+      "传感器使我们能够检测气体变化。"
+    ],
+    "alternative": "make it possible for sb. to do"
+  },
+  {
+    "id": "word-28-r3",
+    "english": "encourage sb. to do",
+    "chinese": "鼓励某人做",
+    "category": "C. 动词 + 人/物 + to do",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "encourage sb. to do",
+    "example_en": "My supervisor encouraged me to explore this topic.",
+    "example_zh": "导师鼓励我探索这个课题。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-28 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "encourage sb. to do",
+    "original": [
+      "encourage sb. to do",
+      "鼓励某人做",
+      "My supervisor encouraged me to explore this topic.",
+      "导师鼓励我探索这个课题。"
+    ],
+    "alternative": "motivate sb. to do"
+  },
+  {
+    "id": "word-28-r4",
+    "english": "require sb. to do",
+    "chinese": "要求某人做",
+    "category": "C. 动词 + 人/物 + to do",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "require sb. to do",
+    "example_en": "The experiment requires us to control the temperature.",
+    "example_zh": "实验要求我们控制温度。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-28 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "require sb. to do",
+    "original": [
+      "require sb. to do",
+      "要求某人做",
+      "The experiment requires us to control the temperature.",
+      "实验要求我们控制温度。"
+    ],
+    "alternative": "ask sb. to do（语气更弱）"
+  },
+  {
+    "id": "word-28-r5",
+    "english": "expect sb. to do",
+    "chinese": "期望某人做",
+    "category": "C. 动词 + 人/物 + to do",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "expect sb. to do",
+    "example_en": "The program expects students to conduct independent research.",
+    "example_zh": "项目要求学生开展独立研究。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-28 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "expect sb. to do",
+    "original": [
+      "expect sb. to do",
+      "期望某人做",
+      "The program expects students to conduct independent research.",
+      "项目要求学生开展独立研究。"
+    ],
+    "alternative": "anticipate that sb. will do"
+  },
+  {
+    "id": "word-28-r6",
+    "english": "help sb. (to) do",
+    "chinese": "帮助某人做",
+    "category": "C. 动词 + 人/物 + to do",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "help sb. (to) do",
+    "example_en": "Machine learning helps us identify patterns.",
+    "example_zh": "机器学习帮助我们识别规律。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-28 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "help sb. (to) do",
+    "original": [
+      "help sb. (to) do",
+      "帮助某人做",
+      "Machine learning helps us identify patterns.",
+      "机器学习帮助我们识别规律。"
+    ],
+    "alternative": "assist sb. in doing"
+  },
+  {
+    "id": "word-31-r1",
+    "english": "make sb. do",
+    "chinese": "使某人做",
+    "category": "D. 动词 + 人/物 + 动词原形",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "make sb. do",
+    "example_en": "The result made me rethink the model.",
+    "example_zh": "这个结果让我重新思考模型。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-31 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "make sb. do",
+    "original": [
+      "make sb. do",
+      "使某人做",
+      "The result made me rethink the model.",
+      "这个结果让我重新思考模型。"
+    ],
+    "alternative": "cause sb. to do"
+  },
+  {
+    "id": "word-31-r2",
+    "english": "let sb. do",
+    "chinese": "让某人做",
+    "category": "D. 动词 + 人/物 + 动词原形",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "let sb. do",
+    "example_en": "Let me explain the circuit first.",
+    "example_zh": "让我先解释这个电路。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-31 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "let sb. do",
+    "original": [
+      "let sb. do",
+      "让某人做",
+      "Let me explain the circuit first.",
+      "让我先解释这个电路。"
+    ],
+    "alternative": "allow sb. to do"
+  },
+  {
+    "id": "word-31-r3",
+    "english": "help sb. do / to do",
+    "chinese": "帮助某人做",
+    "category": "D. 动词 + 人/物 + 动词原形",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "help sb. do / to do",
+    "example_en": "This tool helps me (to) analyze data.",
+    "example_zh": "这个工具帮助我分析数据。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-31 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "help sb. do / to do",
+    "original": [
+      "help sb. do / to do",
+      "帮助某人做",
+      "This tool helps me (to) analyze data.",
+      "这个工具帮助我分析数据。"
+    ],
+    "alternative": "assist sb. in doing"
+  },
+  {
+    "id": "word-36-r1",
+    "english": "be interested in doing",
+    "chinese": "对……感兴趣",
+    "category": "E. 介词 + 名词 / doing",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "be interested in doing",
+    "example_en": "I am interested in developing gas sensors.",
+    "example_zh": "我对开发气体传感器感兴趣。",
+    "common_mistakes": [
+      "介词后接名词或 doing；这里的 to 不一定是不定式标志。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-36 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be interested in doing",
+    "original": [
+      "be interested in doing",
+      "对……感兴趣",
+      "I am interested in developing gas sensors.",
+      "我对开发气体传感器感兴趣。"
+    ],
+    "alternative": "have an interest in doing"
+  },
+  {
+    "id": "word-36-r2",
+    "english": "be good at doing",
+    "chinese": "擅长做",
+    "category": "E. 介词 + 名词 / doing",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "be good at doing",
+    "example_en": "I am good at analyzing experimental data.",
+    "example_zh": "我擅长分析实验数据。",
+    "common_mistakes": [
+      "介词后接名词或 doing；这里的 to 不一定是不定式标志。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-36 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be good at doing",
+    "original": [
+      "be good at doing",
+      "擅长做",
+      "I am good at analyzing experimental data.",
+      "我擅长分析实验数据。"
+    ],
+    "alternative": "be skilled at doing"
+  },
+  {
+    "id": "word-36-r3",
+    "english": "focus on doing / sth.",
+    "chinese": "专注于",
+    "category": "E. 介词 + 名词 / doing",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "focus on doing / sth.",
+    "example_en": "My current work focuses on collecting sensor signals.",
+    "example_zh": "我目前的工作专注于采集传感器信号。",
+    "common_mistakes": [
+      "介词后接名词或 doing；这里的 to 不一定是不定式标志。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-36 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "focus on doing / sth.",
+    "original": [
+      "focus on doing / sth.",
+      "专注于",
+      "My current work focuses on collecting sensor signals.",
+      "我目前的工作专注于采集传感器信号。"
+    ],
+    "alternative": "concentrate on doing / sth."
+  },
+  {
+    "id": "word-36-r4",
+    "english": "contribute to doing / sth.",
+    "chinese": "有助于；为……作贡献",
+    "category": "E. 介词 + 名词 / doing",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "contribute to doing / sth.",
+    "example_en": "Better control can contribute to improving efficiency.",
+    "example_zh": "更好的控制有助于提高效率。",
+    "common_mistakes": [
+      "介词后接名词或 doing；这里的 to 不一定是不定式标志。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-36 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "contribute to doing / sth.",
+    "original": [
+      "contribute to doing / sth.",
+      "有助于；为……作贡献",
+      "Better control can contribute to improving efficiency.",
+      "更好的控制有助于提高效率。"
+    ],
+    "alternative": "help to do"
+  },
+  {
+    "id": "word-36-r5",
+    "english": "look forward to doing",
+    "chinese": "期待做",
+    "category": "E. 介词 + 名词 / doing",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "look forward to doing",
+    "example_en": "I look forward to discussing my research with you.",
+    "example_zh": "我期待与您讨论我的研究。",
+    "common_mistakes": [
+      "介词后接名词或 doing；这里的 to 不一定是不定式标志。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-36 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "look forward to doing",
+    "original": [
+      "look forward to doing",
+      "期待做",
+      "I look forward to discussing my research with you.",
+      "我期待与您讨论我的研究。"
+    ],
+    "alternative": "eagerly anticipate doing"
+  },
+  {
+    "id": "word-36-r6",
+    "english": "be used to doing",
+    "chinese": "习惯于做",
+    "category": "E. 介词 + 名词 / doing",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "be used to doing",
+    "example_en": "I am used to working with Python.",
+    "example_zh": "我习惯使用 Python 工作。",
+    "common_mistakes": [
+      "介词后接名词或 doing；这里的 to 不一定是不定式标志。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-36 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be used to doing",
+    "original": [
+      "be used to doing",
+      "习惯于做",
+      "I am used to working with Python.",
+      "我习惯使用 Python 工作。"
+    ],
+    "alternative": "be accustomed to doing"
+  },
+  {
+    "id": "word-36-r7",
+    "english": "prevent A from doing",
+    "chinese": "阻止 A 做",
+    "category": "E. 介词 + 名词 / doing",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "prevent A from doing",
+    "example_en": "Humidity compensation can prevent errors from increasing.",
+    "example_zh": "湿度补偿可以防止误差增大。",
+    "common_mistakes": [
+      "介词后接名词或 doing；这里的 to 不一定是不定式标志。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-36 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "prevent A from doing",
+    "original": [
+      "prevent A from doing",
+      "阻止 A 做",
+      "Humidity compensation can prevent errors from increasing.",
+      "湿度补偿可以防止误差增大。"
+    ],
+    "alternative": "stop A from doing"
+  },
+  {
+    "id": "word-36-r8",
+    "english": "have difficulty (in) doing",
+    "chinese": "做……有困难",
+    "category": "G. 其他 doing 结构（in 可省略）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "have difficulty (in) doing",
+    "example_en": "I sometimes have difficulty explaining technical ideas in English.",
+    "example_zh": "我有时难以用英语解释技术概念。",
+    "common_mistakes": [
+      "spend time doing / have difficulty (in) doing，不写 spend time to do。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-36 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "have difficulty (in) doing",
+    "original": [
+      "have difficulty (in) doing",
+      "做……有困难",
+      "I sometimes have difficulty explaining technical ideas in English.",
+      "我有时难以用英语解释技术概念。"
+    ],
+    "alternative": "find it difficult to do"
+  },
+  {
+    "id": "word-36-r9",
+    "english": "spend time doing",
+    "chinese": "花时间做",
+    "category": "G. 其他 doing 结构（并非介词后）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "spend time doing",
+    "example_en": "I spend time reading papers on power devices.",
+    "example_zh": "我花时间阅读功率器件论文。",
+    "common_mistakes": [
+      "spend time doing / have difficulty (in) doing，不写 spend time to do。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-36 第 9 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "spend time doing",
+    "original": [
+      "spend time doing",
+      "花时间做",
+      "I spend time reading papers on power devices.",
+      "我花时间阅读功率器件论文。"
+    ],
+    "alternative": "devote time to doing"
+  },
+  {
+    "id": "word-36-r10",
+    "english": "be responsible for doing",
+    "chinese": "负责做",
+    "category": "E. 介词 + 名词 / doing",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "be responsible for doing",
+    "example_en": "I am responsible for collecting and processing data.",
+    "example_zh": "我负责采集和处理数据。",
+    "common_mistakes": [
+      "介词后接名词或 doing；这里的 to 不一定是不定式标志。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-36 第 10 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be responsible for doing",
+    "original": [
+      "be responsible for doing",
+      "负责做",
+      "I am responsible for collecting and processing data.",
+      "我负责采集和处理数据。"
+    ],
+    "alternative": "be in charge of doing"
+  },
+  {
+    "id": "word-39-r1",
+    "english": "take ... into account",
+    "chinese": "把……考虑进去",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "take ... into account",
+    "example_en": "We should take humidity into account when testing gas sensors.",
+    "example_zh": "测试气体传感器时应考虑湿度。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "account for|take ... into account",
+    "original": [
+      "take ... into account",
+      "把……考虑进去",
+      "We should take humidity into account when testing gas sensors.",
+      "测试气体传感器时应考虑湿度。"
+    ],
+    "alternative": "take ... into consideration"
+  },
+  {
+    "id": "word-39-r2",
+    "english": "pay attention to",
+    "chinese": "注意；关注",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "pay attention to",
+    "example_en": "Pay attention to the change in the output signal.",
+    "example_zh": "注意输出信号的变化。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "pay attention to",
+    "original": [
+      "pay attention to",
+      "注意；关注",
+      "Pay attention to the change in the output signal.",
+      "注意输出信号的变化。"
+    ],
+    "alternative": "focus on"
+  },
+  {
+    "id": "word-39-r3",
+    "english": "have an impact on",
+    "chinese": "对……有影响",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "have an impact on",
+    "example_en": "Temperature has an impact on sensor performance.",
+    "example_zh": "温度会影响传感器性能。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "have an impact on",
+    "original": [
+      "have an impact on",
+      "对……有影响",
+      "Temperature has an impact on sensor performance.",
+      "温度会影响传感器性能。"
+    ],
+    "alternative": "affect"
+  },
+  {
+    "id": "word-39-r4",
+    "english": "play a role in",
+    "chinese": "在……中发挥作用",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "play a role in",
+    "example_en": "Data analysis plays an important role in fault diagnosis.",
+    "example_zh": "数据分析在故障诊断中发挥重要作用。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "play a role in",
+    "original": [
+      "play a role in",
+      "在……中发挥作用",
+      "Data analysis plays an important role in fault diagnosis.",
+      "数据分析在故障诊断中发挥重要作用。"
+    ],
+    "alternative": "contribute to"
+  },
+  {
+    "id": "word-39-r5",
+    "english": "be related to",
+    "chinese": "与……有关",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "be related to",
+    "example_en": "The error may be related to the sampling rate.",
+    "example_zh": "误差可能与采样率有关。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be related to",
+    "original": [
+      "be related to",
+      "与……有关",
+      "The error may be related to the sampling rate.",
+      "误差可能与采样率有关。"
+    ],
+    "alternative": "be connected with"
+  },
+  {
+    "id": "word-39-r6",
+    "english": "be exposed to",
+    "chinese": "接触；暴露于",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "be exposed to",
+    "example_en": "The sensor is exposed to different gas concentrations.",
+    "example_zh": "传感器接触不同浓度的气体。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be exposed to",
+    "original": [
+      "be exposed to",
+      "接触；暴露于",
+      "The sensor is exposed to different gas concentrations.",
+      "传感器接触不同浓度的气体。"
+    ],
+    "alternative": "come into contact with"
+  },
+  {
+    "id": "word-39-r7",
+    "english": "have access to",
+    "chinese": "能够使用；有机会接触",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "have access to",
+    "example_en": "Students have access to advanced laboratory equipment.",
+    "example_zh": "学生可以使用先进的实验设备。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "have access to",
+    "original": [
+      "have access to",
+      "能够使用；有机会接触",
+      "Students have access to advanced laboratory equipment.",
+      "学生可以使用先进的实验设备。"
+    ],
+    "alternative": "be able to use"
+  },
+  {
+    "id": "word-39-r8",
+    "english": "make use of",
+    "chinese": "利用",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "make use of",
+    "example_en": "We can make use of machine learning to classify signals.",
+    "example_zh": "我们可以利用机器学习对信号分类。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "make use of",
+    "original": [
+      "make use of",
+      "利用",
+      "We can make use of machine learning to classify signals.",
+      "我们可以利用机器学习对信号分类。"
+    ],
+    "alternative": "utilize"
+  },
+  {
+    "id": "word-39-r9",
+    "english": "deal with",
+    "chinese": "处理；应对",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "deal with",
+    "example_en": "The algorithm deals with sensor drift.",
+    "example_zh": "该算法处理传感器漂移问题。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 9 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "deal with",
+    "original": [
+      "deal with",
+      "处理；应对",
+      "The algorithm deals with sensor drift.",
+      "该算法处理传感器漂移问题。"
+    ],
+    "alternative": "handle"
+  },
+  {
+    "id": "word-39-r10",
+    "english": "in terms of",
+    "chinese": "就……而言",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "in terms of",
+    "example_en": "The model performs well in terms of accuracy.",
+    "example_zh": "就准确率而言，该模型表现良好。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 10 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "in terms of",
+    "original": [
+      "in terms of",
+      "就……而言",
+      "The model performs well in terms of accuracy.",
+      "就准确率而言，该模型表现良好。"
+    ],
+    "alternative": "with regard to"
+  },
+  {
+    "id": "word-39-r11",
+    "english": "lead to",
+    "chinese": "导致；带来",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "lead to",
+    "example_en": "Poor calibration may lead to inaccurate results.",
+    "example_zh": "校准不充分可能导致结果不准确。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 11 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "lead to",
+    "original": [
+      "lead to",
+      "导致；带来",
+      "Poor calibration may lead to inaccurate results.",
+      "校准不充分可能导致结果不准确。"
+    ],
+    "alternative": "cause"
+  },
+  {
+    "id": "word-39-r12",
+    "english": "result in",
+    "chinese": "导致（结果）",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "result in",
+    "example_en": "High temperature may result in signal drift.",
+    "example_zh": "高温可能导致信号漂移。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 12 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "result in|result from",
+    "original": [
+      "result in",
+      "导致（结果）",
+      "High temperature may result in signal drift.",
+      "高温可能导致信号漂移。"
+    ],
+    "alternative": "lead to"
+  },
+  {
+    "id": "word-39-r13",
+    "english": "result from",
+    "chinese": "由……引起（原因）",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "result from",
+    "example_en": "The error may result from poor contact.",
+    "example_zh": "误差可能由接触不良引起。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 13 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "result in|result from",
+    "original": [
+      "result from",
+      "由……引起（原因）",
+      "The error may result from poor contact.",
+      "误差可能由接触不良引起。"
+    ],
+    "alternative": "be caused by"
+  },
+  {
+    "id": "word-39-r14",
+    "english": "account for",
+    "chinese": "解释；占……比例",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "01  高频固定搭配：先按语法规律记",
+    "grammar_pattern": "account for",
+    "example_en": "These factors may account for the difference.",
+    "example_zh": "这些因素可能解释这种差异。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-39 第 14 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "account for|take ... into account",
+    "original": [
+      "account for",
+      "解释；占……比例",
+      "These factors may account for the difference.",
+      "这些因素可能解释这种差异。"
+    ],
+    "alternative": "explain（解释） / constitute（占比）",
+    "senses": [
+      {
+        "id": "word-39-r14-explain",
+        "meaning": "解释",
+        "example": "These factors account for the difference."
+      },
+      {
+        "id": "word-39-r14-proportion",
+        "meaning": "占……比例",
+        "example": "Switching losses account for 30 percent of the total loss."
+      }
+    ]
+  },
+  {
+    "id": "word-45-r1",
+    "english": "I think (that) ...",
+    "chinese": "我认为……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "I think (that) ...",
+    "example_en": "I think that independent learning is important.",
+    "example_zh": "我认为独立学习很重要。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "I think (that) ...",
+    "original": [
+      "I think (that) ...",
+      "我认为……",
+      "I think that independent learning is important.",
+      "我认为独立学习很重要。"
+    ],
+    "alternative": "In my view, ..."
+  },
+  {
+    "id": "word-45-r2",
+    "english": "One reason is that ...",
+    "chinese": "一个原因是……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "One reason is that ...",
+    "example_en": "One reason is that AI saves time.",
+    "example_zh": "一个原因是 AI 能节省时间。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "One reason is that ...",
+    "original": [
+      "One reason is that ...",
+      "一个原因是……",
+      "One reason is that AI saves time.",
+      "一个原因是 AI 能节省时间。"
+    ],
+    "alternative": "This is partly because ..."
+  },
+  {
+    "id": "word-45-r3",
+    "english": "This is because ...",
+    "chinese": "这是因为……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "This is because ...",
+    "example_en": "This is because the sensor is sensitive to humidity.",
+    "example_zh": "这是因为传感器对湿度敏感。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "This is because ...",
+    "original": [
+      "This is because ...",
+      "这是因为……",
+      "This is because the sensor is sensitive to humidity.",
+      "这是因为传感器对湿度敏感。"
+    ],
+    "alternative": "The reason is that ..."
+  },
+  {
+    "id": "word-45-r4",
+    "english": "For example, ...",
+    "chinese": "例如……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "For example, ...",
+    "example_en": "For example, we can use Python to process the data.",
+    "example_zh": "例如，我们可以用 Python 处理数据。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "For example, ...",
+    "original": [
+      "For example, ...",
+      "例如……",
+      "For example, we can use Python to process the data.",
+      "例如，我们可以用 Python 处理数据。"
+    ],
+    "alternative": "For instance, ..."
+  },
+  {
+    "id": "word-45-r5",
+    "english": "As a result, ...",
+    "chinese": "因此；结果是……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "As a result, ...",
+    "example_en": "As a result, the system becomes more reliable.",
+    "example_zh": "因此，系统变得更加可靠。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "As a result, ...",
+    "original": [
+      "As a result, ...",
+      "因此；结果是……",
+      "As a result, the system becomes more reliable.",
+      "因此，系统变得更加可靠。"
+    ],
+    "alternative": "Consequently, ..."
+  },
+  {
+    "id": "word-45-r6",
+    "english": "Although ..., ...",
+    "chinese": "虽然……但是……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "Although ..., ...",
+    "example_en": "Although the model is simple, it works well.",
+    "example_zh": "虽然模型简单，但效果不错。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "Although ..., ...",
+    "original": [
+      "Although ..., ...",
+      "虽然……但是……",
+      "Although the model is simple, it works well.",
+      "虽然模型简单，但效果不错。"
+    ],
+    "alternative": "Even though ..., ..."
+  },
+  {
+    "id": "word-45-r7",
+    "english": "If ..., ...",
+    "chinese": "如果……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "If ..., ...",
+    "example_en": "If we increase the sampling rate, we may get more data.",
+    "example_zh": "如果提高采样率，我们可能得到更多数据。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "If ..., ...",
+    "original": [
+      "If ..., ...",
+      "如果……",
+      "If we increase the sampling rate, we may get more data.",
+      "如果提高采样率，我们可能得到更多数据。"
+    ],
+    "alternative": "Provided that ..., ..."
+  },
+  {
+    "id": "word-45-r8",
+    "english": "As long as ..., ...",
+    "chinese": "只要……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "As long as ..., ...",
+    "example_en": "As long as we test carefully, we can reduce errors.",
+    "example_zh": "只要认真测试，我们就能减少误差。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "As long as ..., ...",
+    "original": [
+      "As long as ..., ...",
+      "只要……",
+      "As long as we test carefully, we can reduce errors.",
+      "只要认真测试，我们就能减少误差。"
+    ],
+    "alternative": "Provided that ..., ..."
+  },
+  {
+    "id": "word-45-r9",
+    "english": "It is important to ...",
+    "chinese": "做……很重要",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "It is important to ...",
+    "example_en": "It is important to understand the basic principles.",
+    "example_zh": "理解基本原理很重要。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 9 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "It is important to ...",
+    "original": [
+      "It is important to ...",
+      "做……很重要",
+      "It is important to understand the basic principles.",
+      "理解基本原理很重要。"
+    ],
+    "alternative": "It is essential to ..."
+  },
+  {
+    "id": "word-45-r10",
+    "english": "It is not ... but ...",
+    "chinese": "不是……而是……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "It is not ... but ...",
+    "example_en": "It is not speed but reliability that matters most.",
+    "example_zh": "最重要的不是速度，而是可靠性。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 10 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "It is not ... but ...",
+    "original": [
+      "It is not ... but ...",
+      "不是……而是……",
+      "It is not only about speed but also about reliability.",
+      "这不仅关乎速度，也关乎可靠性。"
+    ],
+    "correction": "原例句使用 not only ... but also（不仅……而且），与本条 not ... but（不是……而是）不一致。原文完整保留。",
+    "alternative": "Rather than X, it is Y that ..."
+  },
+  {
+    "id": "word-45-r11",
+    "english": "What matters is ...",
+    "chinese": "重要的是……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "What matters is ...",
+    "example_en": "What matters is whether the system works in practice.",
+    "example_zh": "重要的是系统能否在实际中工作。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 11 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "What matters is ...",
+    "original": [
+      "What matters is ...",
+      "重要的是……",
+      "What matters is whether the system works in practice.",
+      "重要的是系统能否在实际中工作。"
+    ],
+    "alternative": "The important thing is ..."
+  },
+  {
+    "id": "word-45-r12",
+    "english": "The main problem is that ...",
+    "chinese": "主要问题是……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "The main problem is that ...",
+    "example_en": "The main problem is that the signal changes over time.",
+    "example_zh": "主要问题是信号会随时间变化。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 12 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "The main problem is that ...",
+    "original": [
+      "The main problem is that ...",
+      "主要问题是……",
+      "The main problem is that the signal changes over time.",
+      "主要问题是信号会随时间变化。"
+    ],
+    "alternative": "The key issue is that ..."
+  },
+  {
+    "id": "word-45-r13",
+    "english": "In the long run, ...",
+    "chinese": "从长远来看……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "In the long run, ...",
+    "example_en": "In the long run, regular practice improves fluency.",
+    "example_zh": "从长远来看，持续练习能提高流利度。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 13 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "In the long run, ...",
+    "original": [
+      "In the long run, ...",
+      "从长远来看……",
+      "In the long run, regular practice improves fluency.",
+      "从长远来看，持续练习能提高流利度。"
+    ],
+    "alternative": "Over time, ..."
+  },
+  {
+    "id": "word-45-r14",
+    "english": "To some extent, ...",
+    "chinese": "在某种程度上……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "To some extent, ...",
+    "example_en": "To some extent, AI can support independent learning.",
+    "example_zh": "在某种程度上，AI 能辅助自主学习。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 14 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "To some extent, ...",
+    "original": [
+      "To some extent, ...",
+      "在某种程度上……",
+      "To some extent, AI can support independent learning.",
+      "在某种程度上，AI 能辅助自主学习。"
+    ],
+    "alternative": "To a certain degree, ..."
+  },
+  {
+    "id": "word-45-r15",
+    "english": "The more ..., the more ...",
+    "chinese": "越……就越……",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "The more ..., the more ...",
+    "example_en": "The more we practice, the more confident we become.",
+    "example_zh": "练习越多，我们就越自信。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-45 第 15 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "The more ..., the more ...",
+    "original": [
+      "The more ..., the more ...",
+      "越……就越……",
+      "The more we practice, the more confident we become.",
+      "练习越多，我们就越自信。"
+    ],
+    "alternative": "As ... increases, ... also increases."
+  },
+  {
+    "id": "word-48-r1",
+    "english": "宾语从句：I think that ...",
+    "chinese": "我认为 AI 能帮助学生理解复杂概念。",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "宾语从句：I think that ...",
+    "example_en": "I think that AI can help students understand difficult concepts.",
+    "example_zh": "我认为 AI 能帮助学生理解复杂概念。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-48 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "宾语从句：I think that ...",
+    "original": [
+      "宾语从句：I think that ...",
+      "I think that AI is useful.",
+      "I think that AI can help students understand difficult concepts.",
+      "我认为 AI 能帮助学生理解复杂概念。"
+    ],
+    "simple_example": "I think that AI is useful.",
+    "alternative": ""
+  },
+  {
+    "id": "word-48-r2",
+    "english": "原因状语从句：because ...",
+    "chinese": "我使用 Python，因为它能帮助我处理实验数据。",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "原因状语从句：because ...",
+    "example_en": "I use Python because it helps me process experimental data.",
+    "example_zh": "我使用 Python，因为它能帮助我处理实验数据。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-48 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "原因状语从句：because ...",
+    "original": [
+      "原因状语从句：because ...",
+      "I use Python because it is useful.",
+      "I use Python because it helps me process experimental data.",
+      "我使用 Python，因为它能帮助我处理实验数据。"
+    ],
+    "simple_example": "I use Python because it is useful.",
+    "alternative": ""
+  },
+  {
+    "id": "word-48-r3",
+    "english": "定语从句：名词 + that / which ...",
+    "chinese": "我正在开发一种能够检测气体浓度变化的传感器。",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "定语从句：名词 + that / which ...",
+    "example_en": "I am developing a sensor that can detect changes in gas concentration.",
+    "example_zh": "我正在开发一种能够检测气体浓度变化的传感器。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-48 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "定语从句：名词 + that / which ...",
+    "original": [
+      "定语从句：名词 + that / which ...",
+      "I use a sensor that detects gas.",
+      "I am developing a sensor that can detect changes in gas concentration.",
+      "我正在开发一种能够检测气体浓度变化的传感器。"
+    ],
+    "simple_example": "I use a sensor that detects gas.",
+    "alternative": ""
+  },
+  {
+    "id": "word-48-r4",
+    "english": "让步状语从句：although ...",
+    "chinese": "虽然模型并不完美，但它提供了一个有用的基线。",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "让步状语从句：although ...",
+    "example_en": "Although the model is not perfect, it provides a useful baseline.",
+    "example_zh": "虽然模型并不完美，但它提供了一个有用的基线。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-48 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "让步状语从句：although ...",
+    "original": [
+      "让步状语从句：although ...",
+      "Although the task is difficult, I will try.",
+      "Although the model is not perfect, it provides a useful baseline.",
+      "虽然模型并不完美，但它提供了一个有用的基线。"
+    ],
+    "simple_example": "Although the task is difficult, I will try.",
+    "alternative": ""
+  },
+  {
+    "id": "word-48-r5",
+    "english": "条件状语从句：if ...",
+    "chinese": "如果有机会，我想在日本继续研究。",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "条件状语从句：if ...",
+    "example_en": "If I have the opportunity, I would like to continue my research in Japan.",
+    "example_zh": "如果有机会，我想在日本继续研究。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-48 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "条件状语从句：if ...",
+    "original": [
+      "条件状语从句：if ...",
+      "If I have time, I will practice.",
+      "If I have the opportunity, I would like to continue my research in Japan.",
+      "如果有机会，我想在日本继续研究。"
+    ],
+    "simple_example": "If I have time, I will practice.",
+    "alternative": ""
+  },
+  {
+    "id": "word-51-r1",
+    "english": "want to do",
+    "chinese": "to 是不定式标志，后接动词原形",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "want to do",
+    "example_en": "I want to study in Japan.",
+    "example_zh": "我想去日本学习。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-51 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "want to do",
+    "original": [
+      "want to do",
+      "to 是不定式标志，后接动词原形",
+      "I want to study in Japan.",
+      "我想去日本学习。"
+    ],
+    "alternative": "would like to do"
+  },
+  {
+    "id": "word-51-r2",
+    "english": "look forward to doing",
+    "chinese": "to 是介词，后接名词或 doing",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "look forward to doing",
+    "example_en": "I look forward to studying in Japan.",
+    "example_zh": "我期待去日本学习。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-51 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "look forward to doing",
+    "original": [
+      "look forward to doing",
+      "to 是介词，后接名词或 doing",
+      "I look forward to studying in Japan.",
+      "我期待去日本学习。"
+    ],
+    "alternative": "eagerly anticipate doing"
+  },
+  {
+    "id": "word-51-r3",
+    "english": "be used to doing",
+    "chinese": "to 是介词，表示习惯于",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "be used to doing",
+    "example_en": "I am used to studying alone.",
+    "example_zh": "我习惯独自学习。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-51 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be used to doing",
+    "original": [
+      "be used to doing",
+      "to 是介词，表示习惯于",
+      "I am used to studying alone.",
+      "我习惯独自学习。"
+    ],
+    "alternative": "be accustomed to doing"
+  },
+  {
+    "id": "word-51-r4",
+    "english": "used to do",
+    "chinese": "过去常常做，现在不一定",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "used to do",
+    "example_en": "I used to study Japanese.",
+    "example_zh": "我过去常学日语。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-51 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "used to do",
+    "original": [
+      "used to do",
+      "过去常常做，现在不一定",
+      "I used to study Japanese.",
+      "我过去常学日语。"
+    ],
+    "alternative": "would do（过去反复发生的动作）"
+  },
+  {
+    "id": "word-51-r5",
+    "english": "be willing to do",
+    "chinese": "愿意做",
+    "category": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "section": "02  高频表达积木：口语、写作和面试都能用",
+    "grammar_pattern": "be willing to do",
+    "example_en": "I am willing to learn new methods.",
+    "example_zh": "我愿意学习新方法。",
+    "common_mistakes": [
+      "按搭配保留介词；result in 后接结果，result from 后接原因。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-51 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be willing to do",
+    "original": [
+      "be willing to do",
+      "愿意做",
+      "I am willing to learn new methods.",
+      "我愿意学习新方法。"
+    ],
+    "alternative": "be ready to do"
+  },
+  {
+    "id": "word-58-r1",
+    "english": "cosmetic",
+    "chinese": "表面的；装饰性的；美容的",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "cosmetic changes / cosmetic surgery",
+    "example_en": "The improvement was only cosmetic; the sensor was still unstable.",
+    "example_zh": "这项改进只是表面上的，传感器仍不稳定。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "superficial"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "cosmetic",
+    "original": [
+      "cosmetic",
+      "表面的；装饰性的；美容的",
+      "cosmetic changes / cosmetic surgery",
+      "The improvement was only cosmetic; the sensor was still unstable.",
+      "这项改进只是表面上的，传感器仍不稳定。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-58-r2",
+    "english": "psychological",
+    "chinese": "心理的",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "psychological effects / psychological pressure",
+    "example_en": "Long-term stress can have psychological effects on students.",
+    "example_zh": "长期压力会对学生产生心理影响。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "mental"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "psychological|physiological|physical",
+    "original": [
+      "psychological",
+      "心理的",
+      "psychological effects / psychological pressure",
+      "Long-term stress can have psychological effects on students.",
+      "长期压力会对学生产生心理影响。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-58-r3",
+    "english": "physiological",
+    "chinese": "生理的",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "physiological changes / physiological response",
+    "example_en": "The study examined the physiological response to stress.",
+    "example_zh": "研究考察了压力引起的生理反应。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "bodily（较宽泛）"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "psychological|physiological|physical",
+    "original": [
+      "physiological",
+      "生理的",
+      "physiological changes / physiological response",
+      "The study examined the physiological response to stress.",
+      "研究考察了压力引起的生理反应。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-58-r4",
+    "english": "physical",
+    "chinese": "身体的；物理的",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "physical health / physical activity",
+    "example_en": "Physical activity can improve students' health.",
+    "example_zh": "体育活动能改善学生健康。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "material（物理的）"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "psychological|physiological|physical",
+    "original": [
+      "physical",
+      "身体的；物理的",
+      "physical health / physical activity",
+      "Physical activity can improve students' health.",
+      "体育活动能改善学生健康。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-58-r5",
+    "english": "cognitive",
+    "chinese": "认知的",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "cognitive ability / cognitive skills",
+    "example_en": "Reading can improve cognitive skills.",
+    "example_zh": "阅读可以提高认知能力。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "mental（较宽泛）"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "cognitive",
+    "original": [
+      "cognitive",
+      "认知的",
+      "cognitive ability / cognitive skills",
+      "Reading can improve cognitive skills.",
+      "阅读可以提高认知能力。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-58-r6",
+    "english": "trait",
+    "chinese": "特征；特质",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "personality trait / common trait",
+    "example_en": "Patience is a useful trait for researchers.",
+    "example_zh": "耐心是研究人员的一项有用特质。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "characteristic"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "trait",
+    "original": [
+      "trait",
+      "特征；特质",
+      "personality trait / common trait",
+      "Patience is a useful trait for researchers.",
+      "耐心是研究人员的一项有用特质。"
+    ],
+    "alternative": "",
+    "pos": "n.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-58-r7",
+    "english": "proximity",
+    "chinese": "接近；邻近",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "in close proximity to",
+    "example_en": "The sensor was placed in close proximity to the gas source.",
+    "example_zh": "传感器被放置在靠近气体源的位置。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "closeness"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "proximity",
+    "original": [
+      "proximity",
+      "接近；邻近",
+      "in close proximity to",
+      "The sensor was placed in close proximity to the gas source.",
+      "传感器被放置在靠近气体源的位置。"
+    ],
+    "alternative": "",
+    "pos": "n.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-58-r8",
+    "english": "buffer zone",
+    "chinese": "缓冲区",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "create / serve as a buffer zone",
+    "example_en": "A protective layer can serve as a buffer zone.",
+    "example_zh": "保护层可以起到缓冲区的作用。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "protective zone"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "buffer zone",
+    "original": [
+      "buffer zone",
+      "缓冲区",
+      "create / serve as a buffer zone",
+      "A protective layer can serve as a buffer zone.",
+      "保护层可以起到缓冲区的作用。"
+    ],
+    "alternative": "",
+    "pos": "n. phrase",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-58-r9",
+    "english": "demographics",
+    "chinese": "人口统计特征；人口数据",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "demographic data / demographic changes",
+    "example_en": "The study considered the demographics of the participants.",
+    "example_zh": "研究考虑了参与者的人口统计特征。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "population characteristics"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 9 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "demographics",
+    "original": [
+      "demographics",
+      "人口统计特征；人口数据",
+      "demographic data / demographic changes",
+      "The study considered the demographics of the participants.",
+      "研究考虑了参与者的人口统计特征。"
+    ],
+    "alternative": "",
+    "pos": "n. plural",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-58-r10",
+    "english": "ascertain",
+    "chinese": "查明；确定",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "ascertain the cause / ascertain whether",
+    "example_en": "We need more tests to ascertain the cause of the error.",
+    "example_zh": "我们需要更多测试来查明误差原因。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "establish"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 10 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "ascertain",
+    "original": [
+      "ascertain",
+      "查明；确定",
+      "ascertain the cause / ascertain whether",
+      "We need more tests to ascertain the cause of the error.",
+      "我们需要更多测试来查明误差原因。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-58-r11",
+    "english": "substantially",
+    "chinese": "大幅度地；显著地",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "increase / decrease substantially",
+    "example_en": "The accuracy improved substantially after calibration.",
+    "example_zh": "校准后准确率显著提高。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "considerably"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 11 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "substantially",
+    "original": [
+      "substantially",
+      "大幅度地；显著地",
+      "increase / decrease substantially",
+      "The accuracy improved substantially after calibration.",
+      "校准后准确率显著提高。"
+    ],
+    "alternative": "",
+    "pos": "adv.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-58-r12",
+    "english": "underlie",
+    "chinese": "构成……的基础；是……的深层原因",
+    "category": "A. 心理、身体与社会科学",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "underlie a problem / underlie a theory",
+    "example_en": "Several factors may underlie the change in sensor output.",
+    "example_zh": "多种因素可能是传感器输出变化的深层原因。",
+    "common_mistakes": [
+      "to 后用动词原形，不写 to studying。"
+    ],
+    "related_words": [
+      "form the basis of"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-58 第 12 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "underlie",
+    "original": [
+      "underlie",
+      "构成……的基础；是……的深层原因",
+      "underlie a problem / underlie a theory",
+      "Several factors may underlie the change in sensor output.",
+      "多种因素可能是传感器输出变化的深层原因。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-61-r1",
+    "english": "correlated",
+    "chinese": "相关的",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "be correlated with",
+    "example_en": "Humidity may be correlated with changes in sensor resistance.",
+    "example_zh": "湿度可能与传感器电阻变化相关。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "associated"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "correlated",
+    "original": [
+      "correlated",
+      "相关的",
+      "be correlated with",
+      "Humidity may be correlated with changes in sensor resistance.",
+      "湿度可能与传感器电阻变化相关。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-61-r2",
+    "english": "redundant",
+    "chinese": "多余的；冗余的",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "redundant information / redundant data",
+    "example_en": "We removed redundant features from the dataset.",
+    "example_zh": "我们从数据集中删除了冗余特征。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "unnecessary"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "redundant",
+    "original": [
+      "redundant",
+      "多余的；冗余的",
+      "redundant information / redundant data",
+      "We removed redundant features from the dataset.",
+      "我们从数据集中删除了冗余特征。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-61-r3",
+    "english": "hybrid",
+    "chinese": "混合的；混合型",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "hybrid system / hybrid model",
+    "example_en": "A hybrid model combines physical knowledge with machine learning.",
+    "example_zh": "混合模型将物理知识与机器学习结合起来。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "mixed"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "hybrid",
+    "original": [
+      "hybrid",
+      "混合的；混合型",
+      "hybrid system / hybrid model",
+      "A hybrid model combines physical knowledge with machine learning.",
+      "混合模型将物理知识与机器学习结合起来。"
+    ],
+    "alternative": "",
+    "pos": "adj./n.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-61-r4",
+    "english": "oversee",
+    "chinese": "监督；管理",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "oversee a project / process",
+    "example_en": "The supervisor oversees the whole research project.",
+    "example_zh": "导师监督整个研究项目。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "supervise"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "oversee",
+    "original": [
+      "oversee",
+      "监督；管理",
+      "oversee a project / process",
+      "The supervisor oversees the whole research project.",
+      "导师监督整个研究项目。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-61-r5",
+    "english": "surpass",
+    "chinese": "超过；胜过",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "surpass expectations / performance",
+    "example_en": "The new model surpassed the baseline in accuracy.",
+    "example_zh": "新模型的准确率超过了基线模型。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "exceed"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "surpass",
+    "original": [
+      "surpass",
+      "超过；胜过",
+      "surpass expectations / performance",
+      "The new model surpassed the baseline in accuracy.",
+      "新模型的准确率超过了基线模型。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-61-r6",
+    "english": "vanish",
+    "chinese": "消失",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "vanish completely / gradually vanish",
+    "example_en": "Some noise may vanish after filtering.",
+    "example_zh": "滤波后部分噪声可能消失。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "disappear"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "vanish",
+    "original": [
+      "vanish",
+      "消失",
+      "vanish completely / gradually vanish",
+      "Some noise may vanish after filtering.",
+      "滤波后部分噪声可能消失。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-61-r7",
+    "english": "evoke",
+    "chinese": "唤起；引起（情感、记忆）",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "evoke memories / emotions",
+    "example_en": "The old laboratory evokes memories of my first research project.",
+    "example_zh": "那间旧实验室让我想起第一个科研项目。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "bring to mind"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "evoke",
+    "original": [
+      "evoke",
+      "唤起；引起（情感、记忆）",
+      "evoke memories / emotions",
+      "The old laboratory evokes memories of my first research project.",
+      "那间旧实验室让我想起第一个科研项目。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-61-r8",
+    "english": "adaptation",
+    "chinese": "适应；适应性变化",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "adaptation to / adaptive mechanism",
+    "example_en": "The algorithm needs adaptation to different humidity levels.",
+    "example_zh": "该算法需要适应不同湿度水平。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "adjustment"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "adaptation",
+    "original": [
+      "adaptation",
+      "适应；适应性变化",
+      "adaptation to / adaptive mechanism",
+      "The algorithm needs adaptation to different humidity levels.",
+      "该算法需要适应不同湿度水平。"
+    ],
+    "alternative": "",
+    "pos": "n.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-61-r9",
+    "english": "rigors",
+    "chinese": "严酷条件；严格要求",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "the rigors of research / training",
+    "example_en": "PhD students must deal with the rigors of academic research.",
+    "example_zh": "博士生必须应对学术研究的严格要求。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "hardships"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 9 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "rigors",
+    "original": [
+      "rigors",
+      "严酷条件；严格要求",
+      "the rigors of research / training",
+      "PhD students must deal with the rigors of academic research.",
+      "博士生必须应对学术研究的严格要求。"
+    ],
+    "alternative": "",
+    "pos": "n. plural",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-61-r10",
+    "english": "catastrophic",
+    "chinese": "灾难性的",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "catastrophic failure / damage",
+    "example_en": "A short circuit may cause catastrophic damage to the device.",
+    "example_zh": "短路可能对器件造成灾难性损坏。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "disastrous"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 10 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "catastrophic",
+    "original": [
+      "catastrophic",
+      "灾难性的",
+      "catastrophic failure / damage",
+      "A short circuit may cause catastrophic damage to the device.",
+      "短路可能对器件造成灾难性损坏。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-61-r11",
+    "english": "probing",
+    "chinese": "深入探查的；探测的",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "probing questions / probing analysis",
+    "example_en": "The professor asked probing questions about my method.",
+    "example_zh": "教授针对我的方法提出了深入的问题。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "investigative"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 11 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "probing",
+    "original": [
+      "probing",
+      "深入探查的；探测的",
+      "probing questions / probing analysis",
+      "The professor asked probing questions about my method.",
+      "教授针对我的方法提出了深入的问题。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-61-r12",
+    "english": "survive",
+    "chinese": "幸存；继续存在",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "survive under conditions / survive a test",
+    "example_en": "The device must survive high-temperature tests.",
+    "example_zh": "器件必须通过高温测试。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "endure"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 12 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "survive",
+    "original": [
+      "survive",
+      "幸存；继续存在",
+      "survive under conditions / survive a test",
+      "The device must survive high-temperature tests.",
+      "器件必须通过高温测试。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-61-r13",
+    "english": "evolve",
+    "chinese": "逐渐发展；演变",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "evolve over time / evolve into",
+    "example_en": "Sensor technology continues to evolve.",
+    "example_zh": "传感器技术不断发展。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "develop"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 13 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "evolve",
+    "original": [
+      "evolve",
+      "逐渐发展；演变",
+      "evolve over time / evolve into",
+      "Sensor technology continues to evolve.",
+      "传感器技术不断发展。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-61-r14",
+    "english": "feat",
+    "chinese": "壮举；了不起的成就",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "an engineering feat / remarkable feat",
+    "example_en": "Building a reliable system with limited resources is an engineering feat.",
+    "example_zh": "在资源有限的情况下构建可靠系统是一项工程壮举。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "achievement"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 14 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "feat",
+    "original": [
+      "feat",
+      "壮举；了不起的成就",
+      "an engineering feat / remarkable feat",
+      "Building a reliable system with limited resources is an engineering feat.",
+      "在资源有限的情况下构建可靠系统是一项工程壮举。"
+    ],
+    "alternative": "",
+    "pos": "n.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-61-r15",
+    "english": "interior",
+    "chinese": "内部；内部的",
+    "category": "B. 科技、研究与变化",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "interior structure / interior surface",
+    "example_en": "We examined the interior structure of the device.",
+    "example_zh": "我们检查了器件的内部结构。",
+    "common_mistakes": [
+      "这些动词后用 doing，不写 enjoy to study。"
+    ],
+    "related_words": [
+      "inside"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-61 第 15 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "interior",
+    "original": [
+      "interior",
+      "内部；内部的",
+      "interior structure / interior surface",
+      "We examined the interior structure of the device.",
+      "我们检查了器件的内部结构。"
+    ],
+    "alternative": "",
+    "pos": "n./adj.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-64-r1",
+    "english": "impose",
+    "chinese": "强加；征收；施加",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "impose a rule / tax on",
+    "example_en": "The government may impose limits on energy use.",
+    "example_zh": "政府可能对能源使用施加限制。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "enforce"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "impose",
+    "original": [
+      "impose",
+      "强加；征收；施加",
+      "impose a rule / tax on",
+      "The government may impose limits on energy use.",
+      "政府可能对能源使用施加限制。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-64-r2",
+    "english": "exemption",
+    "chinese": "豁免；免除",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "exemption from a rule / tax",
+    "example_en": "Some users may receive an exemption from the fee.",
+    "example_zh": "部分用户可能获得费用豁免。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "exception（语境不同）"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "exemption",
+    "original": [
+      "exemption",
+      "豁免；免除",
+      "exemption from a rule / tax",
+      "Some users may receive an exemption from the fee.",
+      "部分用户可能获得费用豁免。"
+    ],
+    "alternative": "",
+    "pos": "n.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-64-r3",
+    "english": "devastating",
+    "chinese": "毁灭性的；极具破坏性的",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "devastating effects / consequences",
+    "example_en": "A major power failure can have devastating effects.",
+    "example_zh": "大规模停电可能造成严重后果。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "destructive"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "devastating",
+    "original": [
+      "devastating",
+      "毁灭性的；极具破坏性的",
+      "devastating effects / consequences",
+      "A major power failure can have devastating effects.",
+      "大规模停电可能造成严重后果。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-64-r4",
+    "english": "enact",
+    "chinese": "制定（法律）；颁布",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "enact a law / policy",
+    "example_en": "The government enacted a new energy policy.",
+    "example_zh": "政府颁布了一项新的能源政策。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "pass（法律）"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "enact",
+    "original": [
+      "enact",
+      "制定（法律）；颁布",
+      "enact a law / policy",
+      "The government enacted a new energy policy.",
+      "政府颁布了一项新的能源政策。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-64-r5",
+    "english": "notwithstanding",
+    "chinese": "尽管；虽然",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "notwithstanding the fact that",
+    "example_en": "Notwithstanding the limitations, the model is useful.",
+    "example_zh": "尽管存在局限，这个模型仍然有用。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "despite"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "notwithstanding",
+    "original": [
+      "notwithstanding",
+      "尽管；虽然",
+      "notwithstanding the fact that",
+      "Notwithstanding the limitations, the model is useful.",
+      "尽管存在局限，这个模型仍然有用。"
+    ],
+    "alternative": "despite",
+    "pos": "prep./adv./conj.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-64-r6",
+    "english": "assert",
+    "chinese": "断言；坚称",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "assert that / assert a claim",
+    "example_en": "The author asserts that technology changes society.",
+    "example_zh": "作者断言技术会改变社会。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "claim"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "assert",
+    "original": [
+      "assert",
+      "断言；坚称",
+      "assert that / assert a claim",
+      "The author asserts that technology changes society.",
+      "作者断言技术会改变社会。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-64-r7",
+    "english": "determine",
+    "chinese": "确定；决定",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "determine the cause / level",
+    "example_en": "We need to determine the cause of signal drift.",
+    "example_zh": "我们需要确定信号漂移的原因。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "establish / decide"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "determine",
+    "original": [
+      "determine",
+      "确定；决定",
+      "determine the cause / level",
+      "We need to determine the cause of signal drift.",
+      "我们需要确定信号漂移的原因。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-64-r8",
+    "english": "entail",
+    "chinese": "需要；必然包含；意味着",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "entail risks / costs / responsibilities",
+    "example_en": "Developing a new device entails time and cost.",
+    "example_zh": "开发新器件需要投入时间和成本。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "involve"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "entail",
+    "original": [
+      "entail",
+      "需要；必然包含；意味着",
+      "entail risks / costs / responsibilities",
+      "Developing a new device entails time and cost.",
+      "开发新器件需要投入时间和成本。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-64-r9",
+    "english": "mortality",
+    "chinese": "死亡；死亡率",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "mortality rate",
+    "example_en": "The report compared mortality rates across regions.",
+    "example_zh": "报告比较了不同地区的死亡率。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "death rate（死亡率义）"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 9 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "mortality",
+    "original": [
+      "mortality",
+      "死亡；死亡率",
+      "mortality rate",
+      "The report compared mortality rates across regions.",
+      "报告比较了不同地区的死亡率。"
+    ],
+    "alternative": "",
+    "pos": "n.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-64-r10",
+    "english": "casualty",
+    "chinese": "伤亡人员；伤亡人数",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "casualties / civilian casualties",
+    "example_en": "The accident caused several casualties.",
+    "example_zh": "事故造成多人伤亡。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "victim"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 10 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "casualty",
+    "original": [
+      "casualty",
+      "伤亡人员；伤亡人数",
+      "casualties / civilian casualties",
+      "The accident caused several casualties.",
+      "事故造成多人伤亡。"
+    ],
+    "alternative": "",
+    "pos": "n.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-64-r11",
+    "english": "hierarchical",
+    "chinese": "等级分明的；层级式的",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "hierarchical structure / system",
+    "example_en": "The company has a hierarchical management structure.",
+    "example_zh": "这家公司采用层级式管理结构。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "ranked"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 11 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "hierarchical",
+    "original": [
+      "hierarchical",
+      "等级分明的；层级式的",
+      "hierarchical structure / system",
+      "The company has a hierarchical management structure.",
+      "这家公司采用层级式管理结构。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-64-r12",
+    "english": "unequal",
+    "chinese": "不平等的；不均等的",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "unequal access / distribution",
+    "example_en": "Unequal access to education can widen social gaps.",
+    "example_zh": "教育机会不平等可能扩大社会差距。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "uneven"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 12 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "unequal",
+    "original": [
+      "unequal",
+      "不平等的；不均等的",
+      "unequal access / distribution",
+      "Unequal access to education can widen social gaps.",
+      "教育机会不平等可能扩大社会差距。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-64-r13",
+    "english": "praiseworthy",
+    "chinese": "值得称赞的",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "a praiseworthy effort",
+    "example_en": "Their effort to improve safety is praiseworthy.",
+    "example_zh": "他们改善安全的努力值得称赞。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "commendable"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 13 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "praiseworthy",
+    "original": [
+      "praiseworthy",
+      "值得称赞的",
+      "a praiseworthy effort",
+      "Their effort to improve safety is praiseworthy.",
+      "他们改善安全的努力值得称赞。"
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-64-r14",
+    "english": "exclude",
+    "chinese": "排除；不包括",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "exclude A from B",
+    "example_en": "We excluded abnormal samples from the analysis.",
+    "example_zh": "我们把异常样本排除在分析之外。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "omit"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 14 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "exclude",
+    "original": [
+      "exclude",
+      "排除；不包括",
+      "exclude A from B",
+      "We excluded abnormal samples from the analysis.",
+      "我们把异常样本排除在分析之外。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-64-r15",
+    "english": "extent",
+    "chinese": "程度；范围",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "to some extent / to a large extent",
+    "example_en": "To some extent, the result depends on the dataset.",
+    "example_zh": "在某种程度上，结果取决于数据集。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "degree"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 15 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "extent",
+    "original": [
+      "extent",
+      "程度；范围",
+      "to some extent / to a large extent",
+      "To some extent, the result depends on the dataset.",
+      "在某种程度上，结果取决于数据集。"
+    ],
+    "alternative": "",
+    "pos": "n.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-64-r16",
+    "english": "moderate",
+    "chinese": "适度的；温和的；使缓和",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "moderate risk / moderate exercise",
+    "example_en": "A moderate temperature helps keep the sensor stable.",
+    "example_zh": "适中的温度有助于保持传感器稳定。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "not extreme / lessen"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 16 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "moderate",
+    "original": [
+      "moderate",
+      "适度的；温和的；使缓和",
+      "moderate risk / moderate exercise",
+      "A moderate temperature helps keep the sensor stable.",
+      "适中的温度有助于保持传感器稳定。"
+    ],
+    "alternative": "",
+    "pos": "adj./v.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-64-r17",
+    "english": "applaud",
+    "chinese": "鼓掌；称赞；赞同",
+    "category": "C. 社会、经济与论证类阅读词汇",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "applaud an effort / decision",
+    "example_en": "We should applaud practical solutions to environmental problems.",
+    "example_zh": "我们应该赞赏解决环境问题的务实方案。",
+    "common_mistakes": [
+      "人或物后接 to + 动词原形；不要漏掉宾语。"
+    ],
+    "related_words": [
+      "praise"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-64 第 17 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "applaud",
+    "original": [
+      "applaud",
+      "鼓掌；称赞；赞同",
+      "applaud an effort / decision",
+      "We should applaud practical solutions to environmental problems.",
+      "我们应该赞赏解决环境问题的务实方案。"
+    ],
+    "alternative": "",
+    "pos": "v.",
+    "exam": "辨认谓语或非谓语形式，并依据宾语确定含义。"
+  },
+  {
+    "id": "word-67-r1",
+    "english": "unfavorable workplace culture",
+    "chinese": "不良的职场文化",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "unfavorable workplace culture",
+    "example_en": "An unfavorable workplace culture can reduce teamwork.",
+    "example_zh": "不良职场文化会削弱团队合作。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "unfavorable workplace culture",
+    "original": [
+      "unfavorable workplace culture",
+      "不良的职场文化",
+      "An unfavorable workplace culture can reduce teamwork.",
+      "不良职场文化会削弱团队合作。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r2",
+    "english": "the bystander effect",
+    "chinese": "旁观者效应",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "the bystander effect",
+    "example_en": "The bystander effect may prevent people from helping.",
+    "example_zh": "旁观者效应可能阻止人们伸出援手。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "the bystander effect",
+    "original": [
+      "the bystander effect",
+      "旁观者效应",
+      "The bystander effect may prevent people from helping.",
+      "旁观者效应可能阻止人们伸出援手。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r3",
+    "english": "diffusion of responsibility",
+    "chinese": "责任分散",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "diffusion of responsibility",
+    "example_en": "Diffusion of responsibility can delay action.",
+    "example_zh": "责任分散可能延误行动。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "diffusion of responsibility",
+    "original": [
+      "diffusion of responsibility",
+      "责任分散",
+      "Diffusion of responsibility can delay action.",
+      "责任分散可能延误行动。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r4",
+    "english": "thorny questions",
+    "chinese": "棘手的问题",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "thorny questions",
+    "example_en": "The project raises some thorny questions about safety.",
+    "example_zh": "这个项目引出了一些安全方面的棘手问题。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "thorny questions",
+    "original": [
+      "thorny questions",
+      "棘手的问题",
+      "The project raises some thorny questions about safety.",
+      "这个项目引出了一些安全方面的棘手问题。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r5",
+    "english": "scheduling nightmare",
+    "chinese": "排期/安排上的大麻烦",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "scheduling nightmare",
+    "example_en": "Coordinating several experiments can become a scheduling nightmare.",
+    "example_zh": "协调多项实验可能变成排期噩梦。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "scheduling nightmare",
+    "original": [
+      "scheduling nightmare",
+      "排期/安排上的大麻烦",
+      "Coordinating several experiments can become a scheduling nightmare.",
+      "协调多项实验可能变成排期噩梦。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r6",
+    "english": "venture to do",
+    "chinese": "冒险/鼓起勇气尝试做",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "venture to do",
+    "example_en": "Few students venture to question the result.",
+    "example_zh": "很少有学生敢于质疑这个结果。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "venture to do",
+    "original": [
+      "venture to do",
+      "冒险/鼓起勇气尝试做",
+      "Few students venture to question the result.",
+      "很少有学生敢于质疑这个结果。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r7",
+    "english": "progress has halted",
+    "chinese": "进展已经停滞",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "progress has halted",
+    "example_en": "Progress has halted because the test equipment is unavailable.",
+    "example_zh": "由于测试设备不可用，进展已经停滞。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "progress has halted",
+    "original": [
+      "progress has halted",
+      "进展已经停滞",
+      "Progress has halted because the test equipment is unavailable.",
+      "由于测试设备不可用，进展已经停滞。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r8",
+    "english": "lagging grid infrastructure",
+    "chinese": "落后的电网基础设施",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "lagging grid infrastructure",
+    "example_en": "Lagging grid infrastructure can limit renewable energy delivery.",
+    "example_zh": "落后的电网基础设施会限制可再生能源输送。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "lagging grid infrastructure",
+    "original": [
+      "lagging grid infrastructure",
+      "落后的电网基础设施",
+      "Lagging grid infrastructure can limit renewable energy delivery.",
+      "落后的电网基础设施会限制可再生能源输送。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r9",
+    "english": "have a bearing on",
+    "chinese": "对……有影响",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "have a bearing on",
+    "example_en": "Humidity has a bearing on gas sensor accuracy.",
+    "example_zh": "湿度会影响气体传感器的准确性。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "affect"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 9 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "have a bearing on",
+    "original": [
+      "have a bearing on",
+      "对……有影响",
+      "Humidity has a bearing on gas sensor accuracy.",
+      "湿度会影响气体传感器的准确性。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r10",
+    "english": "make jobs obsolete",
+    "chinese": "使工作岗位变得不再需要",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "make jobs obsolete",
+    "example_en": "Automation may make some repetitive jobs obsolete.",
+    "example_zh": "自动化可能使一些重复性岗位不再需要。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 10 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "make jobs obsolete",
+    "original": [
+      "make jobs obsolete",
+      "使工作岗位变得不再需要",
+      "Automation may make some repetitive jobs obsolete.",
+      "自动化可能使一些重复性岗位不再需要。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r11",
+    "english": "far more complex than is often assumed",
+    "chinese": "比人们通常认为的复杂得多",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "far more complex than is often assumed",
+    "example_en": "Power system stability is far more complex than is often assumed.",
+    "example_zh": "电力系统稳定性比人们通常认为的复杂得多。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 11 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "far more complex than is often assumed",
+    "original": [
+      "far more complex than is often assumed",
+      "比人们通常认为的复杂得多",
+      "Power system stability is far more complex than is often assumed.",
+      "电力系统稳定性比人们通常认为的复杂得多。"
+    ],
+    "alternative": "",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-67-r12",
+    "english": "even as",
+    "chinese": "与此同时；正当……时",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "03  阅读词汇回收：以前讨论过的词和短语",
+    "grammar_pattern": "even as",
+    "example_en": "Demand is rising even as energy costs increase.",
+    "example_zh": "能源成本上升的同时，需求也在增长。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "结合整句理解，非单词级同义替换"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "source": "word",
+    "source_ref": "word-67 第 12 行",
+    "difficulty": 2,
+    "previous_reading": "document-claimed",
+    "module": "reading",
+    "group": "even as",
+    "original": [
+      "even as",
+      "与此同时；正当……时",
+      "Demand is rising even as energy costs increase.",
+      "能源成本上升的同时，需求也在增长。"
+    ],
+    "alternative": "while",
+    "pos": "phrase / clause",
+    "exam": "关注整个短语的逻辑功能与指代关系。"
+  },
+  {
+    "id": "word-73-r1",
+    "english": "psychological",
+    "chinese": "心理的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "psychological pressure",
+    "example_en": "The exam caused psychological pressure.",
+    "example_zh": "考试造成了心理压力。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "mental"
+    ],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "psychological|physiological|physical",
+    "original": [
+      "psychological",
+      "心理的",
+      "psychological pressure",
+      "The exam caused psychological pressure."
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-73-r2",
+    "english": "physiological",
+    "chinese": "生理的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "physiological response",
+    "example_en": "Stress can cause a physiological response.",
+    "example_zh": "压力会引起生理反应。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "bodily（较宽泛）"
+    ],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "psychological|physiological|physical",
+    "original": [
+      "physiological",
+      "生理的",
+      "physiological response",
+      "Stress can cause a physiological response."
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-73-r3",
+    "english": "physical",
+    "chinese": "身体的；物理的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "physical exercise / physical properties",
+    "example_en": "Physical exercise is good for health.",
+    "example_zh": "体育锻炼有益健康。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "material（物理的）"
+    ],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "psychological|physiological|physical",
+    "original": [
+      "physical",
+      "身体的；物理的",
+      "physical exercise / physical properties",
+      "Physical exercise is good for health."
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-73-r4",
+    "english": "cosmetic",
+    "chinese": "表面的；美容的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "cosmetic change",
+    "example_en": "The change was cosmetic, not fundamental.",
+    "example_zh": "这个变化只是表面的，而非根本性的。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "superficial"
+    ],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "cosmetic",
+    "original": [
+      "cosmetic",
+      "表面的；美容的",
+      "cosmetic change",
+      "The change was cosmetic, not fundamental."
+    ],
+    "alternative": "",
+    "pos": "adj.",
+    "exam": "检查是否修饰名词，以及与邻近形容词的语义差别。"
+  },
+  {
+    "id": "word-73-r5",
+    "english": "worthless",
+    "chinese": "毫无价值的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "worthless information",
+    "example_en": "The data are worthless without proper labels.",
+    "example_zh": "没有正确标签，这些数据毫无价值。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "worthless|priceless",
+    "original": [
+      "worthless",
+      "毫无价值的",
+      "worthless information",
+      "The data are worthless without proper labels."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r6",
+    "english": "priceless",
+    "chinese": "极其珍贵的；无价的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "priceless experience",
+    "example_en": "My research experience is priceless.",
+    "example_zh": "我的科研经历极其珍贵。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "worthless|priceless",
+    "original": [
+      "priceless",
+      "极其珍贵的；无价的",
+      "priceless experience",
+      "My research experience is priceless."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r7",
+    "english": "affect",
+    "chinese": "动词：影响",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "affect performance",
+    "example_en": "Humidity affects sensor performance.",
+    "example_zh": "湿度影响传感器性能。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "affect|effect",
+    "original": [
+      "affect",
+      "动词：影响",
+      "affect performance",
+      "Humidity affects sensor performance."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r8",
+    "english": "effect",
+    "chinese": "名词：影响；效果",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "have an effect on",
+    "example_en": "Humidity has an effect on sensor performance.",
+    "example_zh": "湿度对传感器性能有影响。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "affect|effect",
+    "original": [
+      "effect",
+      "名词：影响；效果",
+      "have an effect on",
+      "Humidity has an effect on sensor performance."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r9",
+    "english": "economic",
+    "chinese": "经济方面的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "economic growth / economic policy",
+    "example_en": "The project has economic benefits.",
+    "example_zh": "项目带来了经济收益。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 9 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "economic|economical",
+    "original": [
+      "economic",
+      "经济方面的",
+      "economic growth / economic policy",
+      "The project has economic benefits."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r10",
+    "english": "economical",
+    "chinese": "节约的；经济实惠的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "an economical design",
+    "example_en": "An economical design reduces material costs.",
+    "example_zh": "节约型设计降低了材料成本。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 10 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "economic|economical",
+    "original": [
+      "economical",
+      "节约的；经济实惠的",
+      "an economical design",
+      "An economical design reduces material costs."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r11",
+    "english": "historic",
+    "chinese": "有历史意义的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "a historic event",
+    "example_en": "The discovery was a historic event.",
+    "example_zh": "这一发现具有历史意义。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 11 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "historic|historical",
+    "original": [
+      "historic",
+      "有历史意义的",
+      "a historic event",
+      "The discovery was a historic event."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r12",
+    "english": "historical",
+    "chinese": "与历史有关的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "historical records",
+    "example_en": "The paper uses historical records.",
+    "example_zh": "论文使用了历史记录。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 12 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "historic|historical",
+    "original": [
+      "historical",
+      "与历史有关的",
+      "historical records",
+      "The paper uses historical records."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r13",
+    "english": "sensible",
+    "chinese": "明智的；合理的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "a sensible decision",
+    "example_en": "It is sensible to test the circuit first.",
+    "example_zh": "先测试电路是明智的。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 13 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "sensible|sensitive",
+    "original": [
+      "sensible",
+      "明智的；合理的",
+      "a sensible decision",
+      "It is sensible to test the circuit first."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r14",
+    "english": "sensitive",
+    "chinese": "敏感的；灵敏的",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "sensitive to humidity",
+    "example_en": "The sensor is sensitive to humidity.",
+    "example_zh": "传感器对湿度敏感。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 14 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "sensible|sensitive",
+    "original": [
+      "sensitive",
+      "敏感的；灵敏的",
+      "sensitive to humidity",
+      "The sensor is sensitive to humidity."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r15",
+    "english": "adapt",
+    "chinese": "适应；改编",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "adapt to a new environment",
+    "example_en": "The model must adapt to changing conditions.",
+    "example_zh": "模型必须适应不断变化的条件。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 15 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "adapt|adopt",
+    "original": [
+      "adapt",
+      "适应；改编",
+      "adapt to a new environment",
+      "The model must adapt to changing conditions."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r16",
+    "english": "adopt",
+    "chinese": "采用；采纳",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "adopt a method",
+    "example_en": "We adopted a new classification method.",
+    "example_zh": "我们采用了一种新的分类方法。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 16 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "adapt|adopt",
+    "original": [
+      "adopt",
+      "采用；采纳",
+      "adopt a method",
+      "We adopted a new classification method."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r17",
+    "english": "rise",
+    "chinese": "上升（不及物）",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "prices rise / temperature rises",
+    "example_en": "The temperature rises during the test.",
+    "example_zh": "测试期间温度上升。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 17 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "rise|raise",
+    "original": [
+      "rise",
+      "上升（不及物）",
+      "prices rise / temperature rises",
+      "The temperature rises during the test."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r18",
+    "english": "raise",
+    "chinese": "提高；举起（及物）",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "raise the temperature",
+    "example_en": "We raised the temperature to 60°C.",
+    "example_zh": "我们将温度提高到了 60°C。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 18 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "rise|raise",
+    "original": [
+      "raise",
+      "提高；举起（及物）",
+      "raise the temperature",
+      "We raised the temperature to 60°C."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r19",
+    "english": "assure",
+    "chinese": "向某人保证",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "assure sb. that",
+    "example_en": "The supervisor assured me that the data were safe.",
+    "example_zh": "导师向我保证数据是安全的。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 19 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "assure|ensure|insure",
+    "original": [
+      "assure",
+      "向某人保证",
+      "assure sb. that",
+      "The supervisor assured me that the data were safe."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r20",
+    "english": "ensure",
+    "chinese": "确保；保证某事发生",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "ensure safety / accuracy",
+    "example_en": "We must ensure measurement accuracy.",
+    "example_zh": "我们必须确保测量精度。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 20 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "assure|ensure|insure",
+    "original": [
+      "ensure",
+      "确保；保证某事发生",
+      "ensure safety / accuracy",
+      "We must ensure measurement accuracy."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r21",
+    "english": "insure",
+    "chinese": "投保；为……保险",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "insure a vehicle",
+    "example_en": "The company insured the equipment.",
+    "example_zh": "公司为设备投了保险。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 21 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "assure|ensure|insure",
+    "original": [
+      "insure",
+      "投保；为……保险",
+      "insure a vehicle",
+      "The company insured the equipment."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r22",
+    "english": "access",
+    "chinese": "名词：使用机会；动词：访问",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "have access to data",
+    "example_en": "Students have access to the laboratory.",
+    "example_zh": "学生可以使用实验室。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 22 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "access|assess",
+    "original": [
+      "access",
+      "名词：使用机会；动词：访问",
+      "have access to data",
+      "Students have access to the laboratory."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r23",
+    "english": "assess",
+    "chinese": "评估",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "assess performance",
+    "example_en": "We assessed the model's performance.",
+    "example_zh": "我们评估了模型的性能。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 23 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "access|assess",
+    "original": [
+      "assess",
+      "评估",
+      "assess performance",
+      "We assessed the model's performance."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r24",
+    "english": "imply",
+    "chinese": "暗示；意味着（说话者/文本发出）",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "imply that",
+    "example_en": "The result implies that humidity matters.",
+    "example_zh": "结果暗示湿度很重要。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 24 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "imply|infer",
+    "original": [
+      "imply",
+      "暗示；意味着（说话者/文本发出）",
+      "imply that",
+      "The result implies that humidity matters."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r25",
+    "english": "infer",
+    "chinese": "推断（读者/研究者得出）",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "infer from data",
+    "example_en": "We can infer the cause from the data.",
+    "example_zh": "我们可以从数据推断原因。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 25 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "imply|infer",
+    "original": [
+      "infer",
+      "推断（读者/研究者得出）",
+      "infer from data",
+      "We can infer the cause from the data."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r26",
+    "english": "principal",
+    "chinese": "主要的；校长/负责人",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "the principal reason",
+    "example_en": "The principal reason is poor calibration.",
+    "example_zh": "主要原因是校准不充分。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 26 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "principal|principle",
+    "original": [
+      "principal",
+      "主要的；校长/负责人",
+      "the principal reason",
+      "The principal reason is poor calibration."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r27",
+    "english": "principle",
+    "chinese": "原则；原理",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "basic principles",
+    "example_en": "We need to understand the basic principles.",
+    "example_zh": "我们需要理解基本原理。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 27 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "principal|principle",
+    "original": [
+      "principle",
+      "原则；原理",
+      "basic principles",
+      "We need to understand the basic principles."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r28",
+    "english": "compliment",
+    "chinese": "赞美；恭维",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "pay sb. a compliment",
+    "example_en": "The professor paid me a compliment.",
+    "example_zh": "教授称赞了我。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 28 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "compliment|complement",
+    "original": [
+      "compliment",
+      "赞美；恭维",
+      "pay sb. a compliment",
+      "The professor paid me a compliment."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-73-r29",
+    "english": "complement",
+    "chinese": "补充；使更完整",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "complement each other",
+    "example_en": "Hardware and software complement each other.",
+    "example_zh": "硬件和软件相互补充。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-73 第 29 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "compliment|complement",
+    "original": [
+      "complement",
+      "补充；使更完整",
+      "complement each other",
+      "Hardware and software complement each other."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-76-r1",
+    "english": "account for",
+    "chinese": "解释；占……比例",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "account for",
+    "example_en": "Several factors may account for the result.",
+    "example_zh": "几个因素可能解释这一结果。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-76 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "account for|take ... into account",
+    "original": [
+      "account for",
+      "解释；占……比例",
+      "Several factors may account for the result.",
+      "几个因素可能解释这一结果。"
+    ],
+    "alternative": "explain（解释） / constitute（占比）",
+    "senses": [
+      {
+        "id": "word-76-r1-explain",
+        "meaning": "解释",
+        "example": "These factors account for the difference."
+      },
+      {
+        "id": "word-76-r1-proportion",
+        "meaning": "占……比例",
+        "example": "Switching losses account for 30 percent of the total loss."
+      }
+    ]
+  },
+  {
+    "id": "word-76-r2",
+    "english": "take ... into account",
+    "chinese": "把……考虑进去",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "take ... into account",
+    "example_en": "Take temperature into account.",
+    "example_zh": "把温度考虑进去。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-76 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "account for|take ... into account",
+    "original": [
+      "take ... into account",
+      "把……考虑进去",
+      "Take temperature into account.",
+      "把温度考虑进去。"
+    ],
+    "alternative": "take ... into consideration"
+  },
+  {
+    "id": "word-76-r3",
+    "english": "besides",
+    "chinese": "此外；除……之外还有",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "besides",
+    "example_en": "Besides collecting data, I analyze it.",
+    "example_zh": "除了采集数据，我还分析数据。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-76 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "besides|except",
+    "original": [
+      "besides",
+      "此外；除……之外还有",
+      "Besides collecting data, I analyze it.",
+      "除了采集数据，我还分析数据。"
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-76-r4",
+    "english": "except",
+    "chinese": "除……之外（排除）",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "except",
+    "example_en": "All samples passed except one.",
+    "example_zh": "除一个样本外，其他样本都通过了。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-76 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "besides|except",
+    "original": [
+      "except",
+      "除……之外（排除）",
+      "All samples passed except one.",
+      "除一个样本外，其他样本都通过了。"
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-76-r5",
+    "english": "result in",
+    "chinese": "导致（后接结果）",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "result in",
+    "example_en": "Poor contact results in signal noise.",
+    "example_zh": "接触不良导致信号噪声。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-76 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "result in|result from",
+    "original": [
+      "result in",
+      "导致（后接结果）",
+      "Poor contact results in signal noise.",
+      "接触不良导致信号噪声。"
+    ],
+    "alternative": "lead to"
+  },
+  {
+    "id": "word-76-r6",
+    "english": "result from",
+    "chinese": "由……引起（后接原因）",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "result from",
+    "example_en": "Signal noise results from poor contact.",
+    "example_zh": "信号噪声由接触不良引起。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-76 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "result in|result from",
+    "original": [
+      "result from",
+      "由……引起（后接原因）",
+      "Signal noise results from poor contact.",
+      "信号噪声由接触不良引起。"
+    ],
+    "alternative": "be caused by"
+  },
+  {
+    "id": "word-76-r7",
+    "english": "demand",
+    "chinese": "需求；要求；要求某事",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "demand for energy / meet demand",
+    "example_en": "Energy demand continues to grow.",
+    "example_zh": "",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-76 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "demand|require|warrant|appeal",
+    "original": [
+      "demand",
+      "需求；要求；要求某事",
+      "demand for energy / meet demand",
+      "Energy demand continues to grow."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-76-r8",
+    "english": "require",
+    "chinese": "需要；要求",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "require further testing",
+    "example_en": "The device requires further testing.",
+    "example_zh": "",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-76 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "demand|require|warrant|appeal",
+    "original": [
+      "require",
+      "需要；要求",
+      "require further testing",
+      "The device requires further testing."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-76-r9",
+    "english": "warrant",
+    "chinese": "使……有必要/有充分理由",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "warrant further research",
+    "example_en": "The result warrants further research.",
+    "example_zh": "",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-76 第 9 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "demand|require|warrant|appeal",
+    "original": [
+      "warrant",
+      "使……有必要/有充分理由",
+      "warrant further research",
+      "The result warrants further research."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-76-r10",
+    "english": "appeal",
+    "chinese": "吸引力；呼吁；上诉",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "04  易混淆词汇：看起来像，意思不一样",
+    "grammar_pattern": "have broad appeal / appeal to users",
+    "example_en": "The simple design has broad appeal.",
+    "example_zh": "",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "confusion"
+    ],
+    "source": "word",
+    "source_ref": "word-76 第 10 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "confusion",
+    "group": "demand|require|warrant|appeal",
+    "original": [
+      "appeal",
+      "吸引力；呼吁；上诉",
+      "have broad appeal / appeal to users",
+      "The simple design has broad appeal."
+    ],
+    "alternative": ""
+  },
+  {
+    "id": "word-82-r1",
+    "english": "deserve our attention",
+    "chinese": "值得我们关注",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "deserve our attention",
+    "example_en": "Environmental protection deserves our attention.",
+    "example_zh": "环境保护值得我们关注。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "deserve our attention",
+    "original": [
+      "deserve our attention",
+      "值得我们关注",
+      "Environmental protection deserves our attention.",
+      "环境保护值得我们关注。"
+    ],
+    "alternative": "be worth considering"
+  },
+  {
+    "id": "word-82-r2",
+    "english": "look at sth. from different perspectives",
+    "chinese": "从不同角度看待某事",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "look at sth. from different perspectives",
+    "example_en": "We should look at AI from different perspectives.",
+    "example_zh": "我们应该从不同角度看待 AI。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "look at sth. from different perspectives",
+    "original": [
+      "look at sth. from different perspectives",
+      "从不同角度看待某事",
+      "We should look at AI from different perspectives.",
+      "我们应该从不同角度看待 AI。"
+    ],
+    "alternative": "consider sth. from different angles"
+  },
+  {
+    "id": "word-82-r3",
+    "english": "practical implications",
+    "chinese": "实际影响；实践意义",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "practical implications",
+    "example_en": "The research has practical implications for sensor design.",
+    "example_zh": "这项研究对传感器设计具有实践意义。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "practical implications",
+    "original": [
+      "practical implications",
+      "实际影响；实践意义",
+      "The research has practical implications for sensor design.",
+      "这项研究对传感器设计具有实践意义。"
+    ],
+    "alternative": "real-world consequences"
+  },
+  {
+    "id": "word-82-r4",
+    "english": "provide sb. with sth.",
+    "chinese": "向某人提供某物",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "provide sb. with sth.",
+    "example_en": "The laboratory provides students with advanced equipment.",
+    "example_zh": "实验室为学生提供先进设备。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "provide sb. with sth.",
+    "original": [
+      "provide sb. with sth.",
+      "向某人提供某物",
+      "The laboratory provides students with advanced equipment.",
+      "实验室为学生提供先进设备。"
+    ],
+    "alternative": "supply sb. with sth."
+  },
+  {
+    "id": "word-82-r5",
+    "english": "provide places for leisure and social activities",
+    "chinese": "提供休闲和社交活动场所",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "provide places for leisure and social activities",
+    "example_en": "Public parks provide residents with places for leisure and social activities.",
+    "example_zh": "公园为居民提供休闲和社交活动场所。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "provide places for leisure and social activities",
+    "original": [
+      "provide places for leisure and social activities",
+      "提供休闲和社交活动场所",
+      "Public parks provide residents with places for leisure and social activities.",
+      "公园为居民提供休闲和社交活动场所。"
+    ],
+    "alternative": "offer spaces for recreation and social interaction"
+  },
+  {
+    "id": "word-82-r6",
+    "english": "improve conditions for",
+    "chinese": "改善……的条件",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "improve conditions for",
+    "example_en": "New facilities improve conditions for outdoor activities.",
+    "example_zh": "新设施改善了户外活动条件。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "improve conditions for",
+    "original": [
+      "improve conditions for",
+      "改善……的条件",
+      "New facilities improve conditions for outdoor activities.",
+      "新设施改善了户外活动条件。"
+    ],
+    "alternative": "create better conditions for"
+  },
+  {
+    "id": "word-82-r7",
+    "english": "make cities more beautiful",
+    "chinese": "使城市更美丽",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "make cities more beautiful",
+    "example_en": "Green spaces can make cities more beautiful.",
+    "example_zh": "绿地可以让城市更加美丽。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 7 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "make cities more beautiful",
+    "original": [
+      "make cities more beautiful",
+      "使城市更美丽",
+      "Green spaces can make cities more beautiful.",
+      "绿地可以让城市更加美丽。"
+    ],
+    "alternative": "beautify cities"
+  },
+  {
+    "id": "word-82-r8",
+    "english": "enter overseas markets",
+    "chinese": "进入海外市场",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "enter overseas markets",
+    "example_en": "The company plans to enter overseas markets.",
+    "example_zh": "公司计划进入海外市场。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 8 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "enter overseas markets",
+    "original": [
+      "enter overseas markets",
+      "进入海外市场",
+      "The company plans to enter overseas markets.",
+      "公司计划进入海外市场。"
+    ],
+    "alternative": "expand into foreign markets"
+  },
+  {
+    "id": "word-82-r9",
+    "english": "expand market share",
+    "chinese": "扩大市场份额",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "expand market share",
+    "example_en": "New products may help the company expand its market share.",
+    "example_zh": "新产品可能帮助公司扩大市场份额。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 9 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "expand market share",
+    "original": [
+      "expand market share",
+      "扩大市场份额",
+      "New products may help the company expand its market share.",
+      "新产品可能帮助公司扩大市场份额。"
+    ],
+    "alternative": "increase market share"
+  },
+  {
+    "id": "word-82-r10",
+    "english": "enhance global influence",
+    "chinese": "提升全球影响力",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "enhance global influence",
+    "example_en": "Scientific cooperation can enhance global influence.",
+    "example_zh": "科研合作可以提升全球影响力。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 10 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "enhance global influence",
+    "original": [
+      "enhance global influence",
+      "提升全球影响力",
+      "Scientific cooperation can enhance global influence.",
+      "科研合作可以提升全球影响力。"
+    ],
+    "alternative": "strengthen international influence"
+  },
+  {
+    "id": "word-82-r11",
+    "english": "feature Chinese elements",
+    "chinese": "以中国元素为特色",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "feature Chinese elements",
+    "example_en": "Some cultural products feature Chinese elements.",
+    "example_zh": "一些文化产品以中国元素为特色。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 11 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "feature Chinese elements",
+    "original": [
+      "feature Chinese elements",
+      "以中国元素为特色",
+      "Some cultural products feature Chinese elements.",
+      "一些文化产品以中国元素为特色。"
+    ],
+    "alternative": "incorporate Chinese elements"
+  },
+  {
+    "id": "word-82-r12",
+    "english": "be favored by consumers",
+    "chinese": "受到消费者青睐",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "be favored by consumers",
+    "example_en": "Reliable products are often favored by consumers.",
+    "example_zh": "可靠的产品往往受到消费者青睐。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 12 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be favored by consumers",
+    "original": [
+      "be favored by consumers",
+      "受到消费者青睐",
+      "Reliable products are often favored by consumers.",
+      "可靠的产品往往受到消费者青睐。"
+    ],
+    "alternative": "be popular with consumers"
+  },
+  {
+    "id": "word-82-r13",
+    "english": "be purchased with government funds",
+    "chinese": "由政府资金购买",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "be purchased with government funds",
+    "example_en": "The equipment was purchased with government funds.",
+    "example_zh": "这些设备由政府资金购买。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 13 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be purchased with government funds",
+    "original": [
+      "be purchased with government funds",
+      "由政府资金购买",
+      "The equipment was purchased with government funds.",
+      "这些设备由政府资金购买。"
+    ],
+    "alternative": "be bought using public funding"
+  },
+  {
+    "id": "word-82-r14",
+    "english": "be built by workers",
+    "chinese": "由工人建造",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "be built by workers",
+    "example_en": "The bridge was built by local workers.",
+    "example_zh": "这座桥由当地工人建造。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 14 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "be built by workers",
+    "original": [
+      "be built by workers",
+      "由工人建造",
+      "The bridge was built by local workers.",
+      "这座桥由当地工人建造。"
+    ],
+    "alternative": "be constructed by workers"
+  },
+  {
+    "id": "word-82-r15",
+    "english": "prepare A for B",
+    "chinese": "使 A 为 B 做准备",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "prepare A for B",
+    "example_en": "Research experience prepares students for doctoral study.",
+    "example_zh": "科研经历为学生读博做准备。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 15 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "prepare A for B",
+    "original": [
+      "prepare A for B",
+      "使 A 为 B 做准备",
+      "Research experience prepares students for doctoral study.",
+      "科研经历为学生读博做准备。"
+    ],
+    "alternative": "equip A for B"
+  },
+  {
+    "id": "word-82-r16",
+    "english": "Only in this way can we ...",
+    "chinese": "只有这样，我们才能……（部分倒装）",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "Only in this way can we ...",
+    "example_en": "Only in this way can we improve the system.",
+    "example_zh": "只有这样，我们才能改进系统。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-82 第 16 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "Only in this way can we ...",
+    "original": [
+      "Only in this way can we ...",
+      "只有这样，我们才能……（部分倒装）",
+      "Only in this way can we improve the system.",
+      "只有这样，我们才能改进系统。"
+    ],
+    "alternative": "We can ... only in this way."
+  },
+  {
+    "id": "word-85-r1",
+    "english": "notwithstanding",
+    "chinese": "尽管",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "notwithstanding",
+    "example_en": "Notwithstanding these problems, the project continued.",
+    "example_zh": "尽管存在这些问题，项目仍继续进行。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [
+      "despite"
+    ],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-85 第 1 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "notwithstanding",
+    "original": [
+      "notwithstanding",
+      "尽管",
+      "Notwithstanding these problems, the project continued.",
+      "尽管存在这些问题，项目仍继续进行。"
+    ],
+    "alternative": "despite",
+    "pos": "prep./adv./conj.",
+    "exam": "根据句中位置确定词性，再用上下文判断含义。"
+  },
+  {
+    "id": "word-85-r2",
+    "english": "even as",
+    "chinese": "与此同时；正当……时",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "even as",
+    "example_en": "Demand increased even as costs rose.",
+    "example_zh": "成本上升的同时，需求也增加了。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-85 第 2 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "even as",
+    "original": [
+      "even as",
+      "与此同时；正当……时",
+      "Demand increased even as costs rose.",
+      "成本上升的同时，需求也增加了。"
+    ],
+    "alternative": "while"
+  },
+  {
+    "id": "word-85-r3",
+    "english": "to some extent",
+    "chinese": "在某种程度上",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "to some extent",
+    "example_en": "To some extent, the results depend on the test conditions.",
+    "example_zh": "在某种程度上，结果取决于测试条件。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-85 第 3 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "to some extent",
+    "original": [
+      "to some extent",
+      "在某种程度上",
+      "To some extent, the results depend on the test conditions.",
+      "在某种程度上，结果取决于测试条件。"
+    ],
+    "alternative": "to a certain degree"
+  },
+  {
+    "id": "word-85-r4",
+    "english": "in a way that takes into account",
+    "chinese": "以一种考虑到……的方式",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "in a way that takes into account",
+    "example_en": "The system should be designed in a way that takes into account user needs.",
+    "example_zh": "系统设计应考虑用户需求。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-85 第 4 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "in a way that takes into account",
+    "original": [
+      "in a way that takes into account",
+      "以一种考虑到……的方式",
+      "The system should be designed in a way that takes into account user needs.",
+      "系统设计应考虑用户需求。"
+    ],
+    "alternative": "while considering"
+  },
+  {
+    "id": "word-85-r5",
+    "english": "more than five decades later",
+    "chinese": "五十多年以后",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "more than five decades later",
+    "example_en": "More than five decades later, the technology remains important.",
+    "example_zh": "五十多年后，这项技术仍然重要。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-85 第 5 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "more than five decades later",
+    "original": [
+      "more than five decades later",
+      "五十多年以后",
+      "More than five decades later, the technology remains important.",
+      "五十多年后，这项技术仍然重要。"
+    ],
+    "alternative": "over fifty years later"
+  },
+  {
+    "id": "word-85-r6",
+    "english": "far more ... than is often assumed",
+    "chinese": "远比通常认为的……",
+    "category": "D. 以前阅读讨论过的短语与长句表达",
+    "section": "05  六级翻译与阅读常见表达",
+    "grammar_pattern": "far more ... than is often assumed",
+    "example_en": "The problem is far more complex than is often assumed.",
+    "example_zh": "这个问题远比通常认为的复杂。",
+    "common_mistakes": [
+      "make / let 主动句用动词原形；be made to do 被动句保留 to；help 两种都可。"
+    ],
+    "related_words": [],
+    "tags": [
+      "collocation"
+    ],
+    "source": "word",
+    "source_ref": "word-85 第 6 行",
+    "difficulty": 2,
+    "previous_reading": "unknown",
+    "module": "collocation",
+    "group": "far more ... than is often assumed",
+    "original": [
+      "far more ... than is often assumed",
+      "远比通常认为的……",
+      "The problem is far more complex than is often assumed.",
+      "这个问题远比通常认为的复杂。"
+    ],
+    "alternative": "much more ... than people usually think"
+  }
+]

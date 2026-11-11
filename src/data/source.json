@@ -1,0 +1,2034 @@
+[
+  {
+    "id": "word-1",
+    "text": "英语输出与阅读搭配手册",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-2",
+    "text": "常用固定搭配 · 易混淆表达 · 六级阅读词汇回收",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-3",
+    "text": "IELTS Speaking Part 3  |  TOEFL Speaking  |  CET-6 Writing & Translation  |  PhD Interview",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-4",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-5",
+    "rows": [
+      [
+        "这份资料怎么用  不要从第一页背到最后一页。每天选 3–5 个搭配：先看中文说英文，再用自己的科研、学习或生活经历造句；隔天不看答案复述。会用，比背过更重要。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-6",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-7",
+    "rows": [
+      [
+        "内容来源说明  优先回收此前对话中讨论过的阅读词汇与表达（如 cosmetic、psychological、physiological、warrant、appeal、account for、bystander effect 等），并补充常见英语搭配。例句围绕电气工程、功率电子、气体传感器、AI/机器学习、科研和日本博士申请。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-8",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-9",
+    "text": "目录",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-10",
+    "text": "01  高频固定搭配：先按语法规律记",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-11",
+    "text": "02  高频表达积木：口语、写作和面试都能用",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-12",
+    "text": "03  阅读词汇回收：以前讨论过的词和短语",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-13",
+    "text": "04  易混淆词汇：看起来像，意思不一样",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-14",
+    "text": "05  六级翻译与阅读常见表达",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-15",
+    "text": "06  自测：中文提示，自己组织英文",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-16",
+    "text": "07  每日复习方法",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-17",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-18",
+    "text": "01  高频固定搭配：先按语法规律记",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-19",
+    "rows": [
+      [
+        "核心原则  固定搭配不是一条一条孤立背。先记住后面接 to do、doing、名词还是完整句子，再把常见动词放进去。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-20",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-21",
+    "text": "A. 动词 + to do（不定式）",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-22",
+    "rows": [
+      [
+        "搭配",
+        "意思",
+        "熟悉领域例句",
+        "中文"
+      ],
+      [
+        "want / hope / plan to do",
+        "想要 / 希望 / 计划做",
+        "I hope to pursue a PhD in Japan.",
+        "我希望去日本读博。"
+      ],
+      [
+        "decide to do",
+        "决定做",
+        "I decided to focus on power electronics.",
+        "我决定专注于电力电子。"
+      ],
+      [
+        "need to do",
+        "需要做",
+        "We need to improve the sensor's stability.",
+        "我们需要提高传感器的稳定性。"
+      ],
+      [
+        "learn to do",
+        "学习做",
+        "I am learning to use COMSOL.",
+        "我正在学习使用 COMSOL。"
+      ],
+      [
+        "fail to do",
+        "未能做",
+        "The sensor failed to detect a weak signal.",
+        "传感器未能检测到微弱信号。"
+      ],
+      [
+        "tend to do",
+        "往往会；倾向于",
+        "Small sensors tend to be affected by humidity.",
+        "小型传感器往往容易受到湿度影响。"
+      ],
+      [
+        "try to do",
+        "努力/尝试做",
+        "I will try to solve the problem.",
+        "我会努力解决这个问题。"
+      ],
+      [
+        "prepare to do",
+        "准备做",
+        "I am preparing to apply for a PhD program.",
+        "我正在准备申请博士项目。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-23",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-24",
+    "text": "B. 动词 + doing（动名词）",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-25",
+    "rows": [
+      [
+        "搭配",
+        "意思",
+        "熟悉领域例句",
+        "中文"
+      ],
+      [
+        "enjoy doing",
+        "喜欢做",
+        "I enjoy reading research papers.",
+        "我喜欢阅读科研论文。"
+      ],
+      [
+        "avoid doing",
+        "避免做",
+        "We should avoid using noisy data.",
+        "我们应该避免使用噪声数据。"
+      ],
+      [
+        "consider doing",
+        "考虑做",
+        "I am considering studying sensor materials.",
+        "我正在考虑研究传感器材料。"
+      ],
+      [
+        "finish doing",
+        "完成做某事",
+        "We finished collecting the sensor data.",
+        "我们完成了传感器数据采集。"
+      ],
+      [
+        "keep doing",
+        "持续做",
+        "Keep testing the circuit under different loads.",
+        "持续测试电路在不同负载下的表现。"
+      ],
+      [
+        "practice doing",
+        "练习做",
+        "I practice speaking English every day.",
+        "我每天练习说英语。"
+      ],
+      [
+        "suggest doing",
+        "建议做",
+        "I suggest comparing three different models.",
+        "我建议比较三种不同模型。"
+      ],
+      [
+        "mind doing",
+        "介意做",
+        "I do not mind explaining my project again.",
+        "我不介意再次解释我的项目。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-26",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-27",
+    "text": "C. 动词 + 人/物 + to do",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-28",
+    "rows": [
+      [
+        "搭配",
+        "意思",
+        "熟悉领域例句",
+        "中文"
+      ],
+      [
+        "allow sb. to do",
+        "允许某人做",
+        "The software allows users to view real-time data.",
+        "软件允许用户查看实时数据。"
+      ],
+      [
+        "enable sb. to do",
+        "使某人能够做",
+        "The sensor enables us to detect gas changes.",
+        "传感器使我们能够检测气体变化。"
+      ],
+      [
+        "encourage sb. to do",
+        "鼓励某人做",
+        "My supervisor encouraged me to explore this topic.",
+        "导师鼓励我探索这个课题。"
+      ],
+      [
+        "require sb. to do",
+        "要求某人做",
+        "The experiment requires us to control the temperature.",
+        "实验要求我们控制温度。"
+      ],
+      [
+        "expect sb. to do",
+        "期望某人做",
+        "The program expects students to conduct independent research.",
+        "项目要求学生开展独立研究。"
+      ],
+      [
+        "help sb. (to) do",
+        "帮助某人做",
+        "Machine learning helps us identify patterns.",
+        "机器学习帮助我们识别规律。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-29",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-30",
+    "text": "D. 动词 + 人/物 + 动词原形",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-31",
+    "rows": [
+      [
+        "搭配",
+        "意思",
+        "熟悉领域例句",
+        "中文"
+      ],
+      [
+        "make sb. do",
+        "使某人做",
+        "The result made me rethink the model.",
+        "这个结果让我重新思考模型。"
+      ],
+      [
+        "let sb. do",
+        "让某人做",
+        "Let me explain the circuit first.",
+        "让我先解释这个电路。"
+      ],
+      [
+        "help sb. do / to do",
+        "帮助某人做",
+        "This tool helps me (to) analyze data.",
+        "这个工具帮助我分析数据。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-32",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-33",
+    "rows": [
+      [
+        "容易错的地方  make + 人 + do（主动语态不带 to）；be made to do（被动语态要带 to）。help 后面 do 和 to do 都可以。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-34",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-35",
+    "text": "E. 介词 + 名词 / doing",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-36",
+    "rows": [
+      [
+        "搭配",
+        "意思",
+        "熟悉领域例句",
+        "中文"
+      ],
+      [
+        "be interested in doing",
+        "对……感兴趣",
+        "I am interested in developing gas sensors.",
+        "我对开发气体传感器感兴趣。"
+      ],
+      [
+        "be good at doing",
+        "擅长做",
+        "I am good at analyzing experimental data.",
+        "我擅长分析实验数据。"
+      ],
+      [
+        "focus on doing / sth.",
+        "专注于",
+        "My current work focuses on collecting sensor signals.",
+        "我目前的工作专注于采集传感器信号。"
+      ],
+      [
+        "contribute to doing / sth.",
+        "有助于；为……作贡献",
+        "Better control can contribute to improving efficiency.",
+        "更好的控制有助于提高效率。"
+      ],
+      [
+        "look forward to doing",
+        "期待做",
+        "I look forward to discussing my research with you.",
+        "我期待与您讨论我的研究。"
+      ],
+      [
+        "be used to doing",
+        "习惯于做",
+        "I am used to working with Python.",
+        "我习惯使用 Python 工作。"
+      ],
+      [
+        "prevent A from doing",
+        "阻止 A 做",
+        "Humidity compensation can prevent errors from increasing.",
+        "湿度补偿可以防止误差增大。"
+      ],
+      [
+        "have difficulty (in) doing",
+        "做……有困难",
+        "I sometimes have difficulty explaining technical ideas in English.",
+        "我有时难以用英语解释技术概念。"
+      ],
+      [
+        "spend time doing",
+        "花时间做",
+        "I spend time reading papers on power devices.",
+        "我花时间阅读功率器件论文。"
+      ],
+      [
+        "be responsible for doing",
+        "负责做",
+        "I am responsible for collecting and processing data.",
+        "我负责采集和处理数据。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-37",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-38",
+    "text": "F. 高频介词搭配（后面通常接名词或 doing）",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-39",
+    "rows": [
+      [
+        "搭配",
+        "意思",
+        "熟悉领域例句",
+        "中文"
+      ],
+      [
+        "take ... into account",
+        "把……考虑进去",
+        "We should take humidity into account when testing gas sensors.",
+        "测试气体传感器时应考虑湿度。"
+      ],
+      [
+        "pay attention to",
+        "注意；关注",
+        "Pay attention to the change in the output signal.",
+        "注意输出信号的变化。"
+      ],
+      [
+        "have an impact on",
+        "对……有影响",
+        "Temperature has an impact on sensor performance.",
+        "温度会影响传感器性能。"
+      ],
+      [
+        "play a role in",
+        "在……中发挥作用",
+        "Data analysis plays an important role in fault diagnosis.",
+        "数据分析在故障诊断中发挥重要作用。"
+      ],
+      [
+        "be related to",
+        "与……有关",
+        "The error may be related to the sampling rate.",
+        "误差可能与采样率有关。"
+      ],
+      [
+        "be exposed to",
+        "接触；暴露于",
+        "The sensor is exposed to different gas concentrations.",
+        "传感器接触不同浓度的气体。"
+      ],
+      [
+        "have access to",
+        "能够使用；有机会接触",
+        "Students have access to advanced laboratory equipment.",
+        "学生可以使用先进的实验设备。"
+      ],
+      [
+        "make use of",
+        "利用",
+        "We can make use of machine learning to classify signals.",
+        "我们可以利用机器学习对信号分类。"
+      ],
+      [
+        "deal with",
+        "处理；应对",
+        "The algorithm deals with sensor drift.",
+        "该算法处理传感器漂移问题。"
+      ],
+      [
+        "in terms of",
+        "就……而言",
+        "The model performs well in terms of accuracy.",
+        "就准确率而言，该模型表现良好。"
+      ],
+      [
+        "lead to",
+        "导致；带来",
+        "Poor calibration may lead to inaccurate results.",
+        "校准不充分可能导致结果不准确。"
+      ],
+      [
+        "result in",
+        "导致（结果）",
+        "High temperature may result in signal drift.",
+        "高温可能导致信号漂移。"
+      ],
+      [
+        "result from",
+        "由……引起（原因）",
+        "The error may result from poor contact.",
+        "误差可能由接触不良引起。"
+      ],
+      [
+        "account for",
+        "解释；占……比例",
+        "These factors may account for the difference.",
+        "这些因素可能解释这种差异。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-40",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-41",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-42",
+    "text": "02  高频表达积木：口语、写作和面试都能用",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-43",
+    "rows": [
+      [
+        "使用方法  把这些当作句子开头或连接件。先把后面的内容说简单，再逐步加入从句。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-44",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-45",
+    "rows": [
+      [
+        "句型积木",
+        "功能",
+        "例句",
+        "中文"
+      ],
+      [
+        "I think (that) ...",
+        "我认为……",
+        "I think that independent learning is important.",
+        "我认为独立学习很重要。"
+      ],
+      [
+        "One reason is that ...",
+        "一个原因是……",
+        "One reason is that AI saves time.",
+        "一个原因是 AI 能节省时间。"
+      ],
+      [
+        "This is because ...",
+        "这是因为……",
+        "This is because the sensor is sensitive to humidity.",
+        "这是因为传感器对湿度敏感。"
+      ],
+      [
+        "For example, ...",
+        "例如……",
+        "For example, we can use Python to process the data.",
+        "例如，我们可以用 Python 处理数据。"
+      ],
+      [
+        "As a result, ...",
+        "因此；结果是……",
+        "As a result, the system becomes more reliable.",
+        "因此，系统变得更加可靠。"
+      ],
+      [
+        "Although ..., ...",
+        "虽然……但是……",
+        "Although the model is simple, it works well.",
+        "虽然模型简单，但效果不错。"
+      ],
+      [
+        "If ..., ...",
+        "如果……",
+        "If we increase the sampling rate, we may get more data.",
+        "如果提高采样率，我们可能得到更多数据。"
+      ],
+      [
+        "As long as ..., ...",
+        "只要……",
+        "As long as we test carefully, we can reduce errors.",
+        "只要认真测试，我们就能减少误差。"
+      ],
+      [
+        "It is important to ...",
+        "做……很重要",
+        "It is important to understand the basic principles.",
+        "理解基本原理很重要。"
+      ],
+      [
+        "It is not ... but ...",
+        "不是……而是……",
+        "It is not only about speed but also about reliability.",
+        "这不仅关乎速度，也关乎可靠性。"
+      ],
+      [
+        "What matters is ...",
+        "重要的是……",
+        "What matters is whether the system works in practice.",
+        "重要的是系统能否在实际中工作。"
+      ],
+      [
+        "The main problem is that ...",
+        "主要问题是……",
+        "The main problem is that the signal changes over time.",
+        "主要问题是信号会随时间变化。"
+      ],
+      [
+        "In the long run, ...",
+        "从长远来看……",
+        "In the long run, regular practice improves fluency.",
+        "从长远来看，持续练习能提高流利度。"
+      ],
+      [
+        "To some extent, ...",
+        "在某种程度上……",
+        "To some extent, AI can support independent learning.",
+        "在某种程度上，AI 能辅助自主学习。"
+      ],
+      [
+        "The more ..., the more ...",
+        "越……就越……",
+        "The more we practice, the more confident we become.",
+        "练习越多，我们就越自信。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-46",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-47",
+    "text": "从简单句扩展到从句",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-48",
+    "rows": [
+      [
+        "结构",
+        "基础句",
+        "扩展句",
+        "中文"
+      ],
+      [
+        "宾语从句：I think that ...",
+        "I think that AI is useful.",
+        "I think that AI can help students understand difficult concepts.",
+        "我认为 AI 能帮助学生理解复杂概念。"
+      ],
+      [
+        "原因状语从句：because ...",
+        "I use Python because it is useful.",
+        "I use Python because it helps me process experimental data.",
+        "我使用 Python，因为它能帮助我处理实验数据。"
+      ],
+      [
+        "定语从句：名词 + that / which ...",
+        "I use a sensor that detects gas.",
+        "I am developing a sensor that can detect changes in gas concentration.",
+        "我正在开发一种能够检测气体浓度变化的传感器。"
+      ],
+      [
+        "让步状语从句：although ...",
+        "Although the task is difficult, I will try.",
+        "Although the model is not perfect, it provides a useful baseline.",
+        "虽然模型并不完美，但它提供了一个有用的基线。"
+      ],
+      [
+        "条件状语从句：if ...",
+        "If I have time, I will practice.",
+        "If I have the opportunity, I would like to continue my research in Japan.",
+        "如果有机会，我想在日本继续研究。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-49",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-50",
+    "text": "容易混淆的 to",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-51",
+    "rows": [
+      [
+        "搭配",
+        "规则",
+        "例句",
+        "中文"
+      ],
+      [
+        "want to do",
+        "to 是不定式标志，后接动词原形",
+        "I want to study in Japan.",
+        "我想去日本学习。"
+      ],
+      [
+        "look forward to doing",
+        "to 是介词，后接名词或 doing",
+        "I look forward to studying in Japan.",
+        "我期待去日本学习。"
+      ],
+      [
+        "be used to doing",
+        "to 是介词，表示习惯于",
+        "I am used to studying alone.",
+        "我习惯独自学习。"
+      ],
+      [
+        "used to do",
+        "过去常常做，现在不一定",
+        "I used to study Japanese.",
+        "我过去常学日语。"
+      ],
+      [
+        "be willing to do",
+        "愿意做",
+        "I am willing to learn new methods.",
+        "我愿意学习新方法。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-52",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-53",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-54",
+    "text": "03  阅读词汇回收：以前讨论过的词和短语",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-55",
+    "rows": [
+      [
+        "复习提醒  不要只背中文释义。每个词至少记住一个常见搭配，并读出例句。标有“阅读回收”的词来自此前讨论过的六级阅读材料、选词填空材料或阅读错题分析。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-56",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-57",
+    "text": "A. 心理、身体与社会科学",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-58",
+    "rows": [
+      [
+        "词汇",
+        "核心意思",
+        "常见搭配",
+        "领域例句",
+        "中文"
+      ],
+      [
+        "cosmetic",
+        "表面的；装饰性的；美容的",
+        "cosmetic changes / cosmetic surgery",
+        "The improvement was only cosmetic; the sensor was still unstable.",
+        "这项改进只是表面上的，传感器仍不稳定。"
+      ],
+      [
+        "psychological",
+        "心理的",
+        "psychological effects / psychological pressure",
+        "Long-term stress can have psychological effects on students.",
+        "长期压力会对学生产生心理影响。"
+      ],
+      [
+        "physiological",
+        "生理的",
+        "physiological changes / physiological response",
+        "The study examined the physiological response to stress.",
+        "研究考察了压力引起的生理反应。"
+      ],
+      [
+        "physical",
+        "身体的；物理的",
+        "physical health / physical activity",
+        "Physical activity can improve students' health.",
+        "体育活动能改善学生健康。"
+      ],
+      [
+        "cognitive",
+        "认知的",
+        "cognitive ability / cognitive skills",
+        "Reading can improve cognitive skills.",
+        "阅读可以提高认知能力。"
+      ],
+      [
+        "trait",
+        "特征；特质",
+        "personality trait / common trait",
+        "Patience is a useful trait for researchers.",
+        "耐心是研究人员的一项有用特质。"
+      ],
+      [
+        "proximity",
+        "接近；邻近",
+        "in close proximity to",
+        "The sensor was placed in close proximity to the gas source.",
+        "传感器被放置在靠近气体源的位置。"
+      ],
+      [
+        "buffer zone",
+        "缓冲区",
+        "create / serve as a buffer zone",
+        "A protective layer can serve as a buffer zone.",
+        "保护层可以起到缓冲区的作用。"
+      ],
+      [
+        "demographics",
+        "人口统计特征；人口数据",
+        "demographic data / demographic changes",
+        "The study considered the demographics of the participants.",
+        "研究考虑了参与者的人口统计特征。"
+      ],
+      [
+        "ascertain",
+        "查明；确定",
+        "ascertain the cause / ascertain whether",
+        "We need more tests to ascertain the cause of the error.",
+        "我们需要更多测试来查明误差原因。"
+      ],
+      [
+        "substantially",
+        "大幅度地；显著地",
+        "increase / decrease substantially",
+        "The accuracy improved substantially after calibration.",
+        "校准后准确率显著提高。"
+      ],
+      [
+        "underlie",
+        "构成……的基础；是……的深层原因",
+        "underlie a problem / underlie a theory",
+        "Several factors may underlie the change in sensor output.",
+        "多种因素可能是传感器输出变化的深层原因。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-59",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-60",
+    "text": "B. 科技、研究与变化",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-61",
+    "rows": [
+      [
+        "词汇",
+        "核心意思",
+        "常见搭配",
+        "领域例句",
+        "中文"
+      ],
+      [
+        "correlated",
+        "相关的",
+        "be correlated with",
+        "Humidity may be correlated with changes in sensor resistance.",
+        "湿度可能与传感器电阻变化相关。"
+      ],
+      [
+        "redundant",
+        "多余的；冗余的",
+        "redundant information / redundant data",
+        "We removed redundant features from the dataset.",
+        "我们从数据集中删除了冗余特征。"
+      ],
+      [
+        "hybrid",
+        "混合的；混合型",
+        "hybrid system / hybrid model",
+        "A hybrid model combines physical knowledge with machine learning.",
+        "混合模型将物理知识与机器学习结合起来。"
+      ],
+      [
+        "oversee",
+        "监督；管理",
+        "oversee a project / process",
+        "The supervisor oversees the whole research project.",
+        "导师监督整个研究项目。"
+      ],
+      [
+        "surpass",
+        "超过；胜过",
+        "surpass expectations / performance",
+        "The new model surpassed the baseline in accuracy.",
+        "新模型的准确率超过了基线模型。"
+      ],
+      [
+        "vanish",
+        "消失",
+        "vanish completely / gradually vanish",
+        "Some noise may vanish after filtering.",
+        "滤波后部分噪声可能消失。"
+      ],
+      [
+        "evoke",
+        "唤起；引起（情感、记忆）",
+        "evoke memories / emotions",
+        "The old laboratory evokes memories of my first research project.",
+        "那间旧实验室让我想起第一个科研项目。"
+      ],
+      [
+        "adaptation",
+        "适应；适应性变化",
+        "adaptation to / adaptive mechanism",
+        "The algorithm needs adaptation to different humidity levels.",
+        "该算法需要适应不同湿度水平。"
+      ],
+      [
+        "rigors",
+        "严酷条件；严格要求",
+        "the rigors of research / training",
+        "PhD students must deal with the rigors of academic research.",
+        "博士生必须应对学术研究的严格要求。"
+      ],
+      [
+        "catastrophic",
+        "灾难性的",
+        "catastrophic failure / damage",
+        "A short circuit may cause catastrophic damage to the device.",
+        "短路可能对器件造成灾难性损坏。"
+      ],
+      [
+        "probing",
+        "深入探查的；探测的",
+        "probing questions / probing analysis",
+        "The professor asked probing questions about my method.",
+        "教授针对我的方法提出了深入的问题。"
+      ],
+      [
+        "survive",
+        "幸存；继续存在",
+        "survive under conditions / survive a test",
+        "The device must survive high-temperature tests.",
+        "器件必须通过高温测试。"
+      ],
+      [
+        "evolve",
+        "逐渐发展；演变",
+        "evolve over time / evolve into",
+        "Sensor technology continues to evolve.",
+        "传感器技术不断发展。"
+      ],
+      [
+        "feat",
+        "壮举；了不起的成就",
+        "an engineering feat / remarkable feat",
+        "Building a reliable system with limited resources is an engineering feat.",
+        "在资源有限的情况下构建可靠系统是一项工程壮举。"
+      ],
+      [
+        "interior",
+        "内部；内部的",
+        "interior structure / interior surface",
+        "We examined the interior structure of the device.",
+        "我们检查了器件的内部结构。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-62",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-63",
+    "text": "C. 社会、经济与论证类阅读词汇",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-64",
+    "rows": [
+      [
+        "词汇",
+        "核心意思",
+        "常见搭配",
+        "领域例句",
+        "中文"
+      ],
+      [
+        "impose",
+        "强加；征收；施加",
+        "impose a rule / tax on",
+        "The government may impose limits on energy use.",
+        "政府可能对能源使用施加限制。"
+      ],
+      [
+        "exemption",
+        "豁免；免除",
+        "exemption from a rule / tax",
+        "Some users may receive an exemption from the fee.",
+        "部分用户可能获得费用豁免。"
+      ],
+      [
+        "devastating",
+        "毁灭性的；极具破坏性的",
+        "devastating effects / consequences",
+        "A major power failure can have devastating effects.",
+        "大规模停电可能造成严重后果。"
+      ],
+      [
+        "enact",
+        "制定（法律）；颁布",
+        "enact a law / policy",
+        "The government enacted a new energy policy.",
+        "政府颁布了一项新的能源政策。"
+      ],
+      [
+        "notwithstanding",
+        "尽管；虽然",
+        "notwithstanding the fact that",
+        "Notwithstanding the limitations, the model is useful.",
+        "尽管存在局限，这个模型仍然有用。"
+      ],
+      [
+        "assert",
+        "断言；坚称",
+        "assert that / assert a claim",
+        "The author asserts that technology changes society.",
+        "作者断言技术会改变社会。"
+      ],
+      [
+        "determine",
+        "确定；决定",
+        "determine the cause / level",
+        "We need to determine the cause of signal drift.",
+        "我们需要确定信号漂移的原因。"
+      ],
+      [
+        "entail",
+        "需要；必然包含；意味着",
+        "entail risks / costs / responsibilities",
+        "Developing a new device entails time and cost.",
+        "开发新器件需要投入时间和成本。"
+      ],
+      [
+        "mortality",
+        "死亡；死亡率",
+        "mortality rate",
+        "The report compared mortality rates across regions.",
+        "报告比较了不同地区的死亡率。"
+      ],
+      [
+        "casualty",
+        "伤亡人员；伤亡人数",
+        "casualties / civilian casualties",
+        "The accident caused several casualties.",
+        "事故造成多人伤亡。"
+      ],
+      [
+        "hierarchical",
+        "等级分明的；层级式的",
+        "hierarchical structure / system",
+        "The company has a hierarchical management structure.",
+        "这家公司采用层级式管理结构。"
+      ],
+      [
+        "unequal",
+        "不平等的；不均等的",
+        "unequal access / distribution",
+        "Unequal access to education can widen social gaps.",
+        "教育机会不平等可能扩大社会差距。"
+      ],
+      [
+        "praiseworthy",
+        "值得称赞的",
+        "a praiseworthy effort",
+        "Their effort to improve safety is praiseworthy.",
+        "他们改善安全的努力值得称赞。"
+      ],
+      [
+        "exclude",
+        "排除；不包括",
+        "exclude A from B",
+        "We excluded abnormal samples from the analysis.",
+        "我们把异常样本排除在分析之外。"
+      ],
+      [
+        "extent",
+        "程度；范围",
+        "to some extent / to a large extent",
+        "To some extent, the result depends on the dataset.",
+        "在某种程度上，结果取决于数据集。"
+      ],
+      [
+        "moderate",
+        "适度的；温和的；使缓和",
+        "moderate risk / moderate exercise",
+        "A moderate temperature helps keep the sensor stable.",
+        "适中的温度有助于保持传感器稳定。"
+      ],
+      [
+        "applaud",
+        "鼓掌；称赞；赞同",
+        "applaud an effort / decision",
+        "We should applaud practical solutions to environmental problems.",
+        "我们应该赞赏解决环境问题的务实方案。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-65",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-66",
+    "text": "D. 以前阅读讨论过的短语与长句表达",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-67",
+    "rows": [
+      [
+        "短语",
+        "中文",
+        "熟悉领域例句",
+        "中文"
+      ],
+      [
+        "unfavorable workplace culture",
+        "不良的职场文化",
+        "An unfavorable workplace culture can reduce teamwork.",
+        "不良职场文化会削弱团队合作。"
+      ],
+      [
+        "the bystander effect",
+        "旁观者效应",
+        "The bystander effect may prevent people from helping.",
+        "旁观者效应可能阻止人们伸出援手。"
+      ],
+      [
+        "diffusion of responsibility",
+        "责任分散",
+        "Diffusion of responsibility can delay action.",
+        "责任分散可能延误行动。"
+      ],
+      [
+        "thorny questions",
+        "棘手的问题",
+        "The project raises some thorny questions about safety.",
+        "这个项目引出了一些安全方面的棘手问题。"
+      ],
+      [
+        "scheduling nightmare",
+        "排期/安排上的大麻烦",
+        "Coordinating several experiments can become a scheduling nightmare.",
+        "协调多项实验可能变成排期噩梦。"
+      ],
+      [
+        "venture to do",
+        "冒险/鼓起勇气尝试做",
+        "Few students venture to question the result.",
+        "很少有学生敢于质疑这个结果。"
+      ],
+      [
+        "progress has halted",
+        "进展已经停滞",
+        "Progress has halted because the test equipment is unavailable.",
+        "由于测试设备不可用，进展已经停滞。"
+      ],
+      [
+        "lagging grid infrastructure",
+        "落后的电网基础设施",
+        "Lagging grid infrastructure can limit renewable energy delivery.",
+        "落后的电网基础设施会限制可再生能源输送。"
+      ],
+      [
+        "have a bearing on",
+        "对……有影响",
+        "Humidity has a bearing on gas sensor accuracy.",
+        "湿度会影响气体传感器的准确性。"
+      ],
+      [
+        "make jobs obsolete",
+        "使工作岗位变得不再需要",
+        "Automation may make some repetitive jobs obsolete.",
+        "自动化可能使一些重复性岗位不再需要。"
+      ],
+      [
+        "far more complex than is often assumed",
+        "比人们通常认为的复杂得多",
+        "Power system stability is far more complex than is often assumed.",
+        "电力系统稳定性比人们通常认为的复杂得多。"
+      ],
+      [
+        "even as",
+        "与此同时；正当……时",
+        "Demand is rising even as energy costs increase.",
+        "能源成本上升的同时，需求也在增长。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-68",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-69",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-70",
+    "text": "04  易混淆词汇：看起来像，意思不一样",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-71",
+    "rows": [
+      [
+        "记忆方法  不要只背单词的中文意思。把它们放在对比句里，记住它们各自能修饰什么、常跟什么词搭配。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-72",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-73",
+    "rows": [
+      [
+        "词/表达",
+        "意思",
+        "常见搭配",
+        "例句"
+      ],
+      [
+        "psychological",
+        "心理的",
+        "psychological pressure",
+        "The exam caused psychological pressure."
+      ],
+      [
+        "physiological",
+        "生理的",
+        "physiological response",
+        "Stress can cause a physiological response."
+      ],
+      [
+        "physical",
+        "身体的；物理的",
+        "physical exercise / physical properties",
+        "Physical exercise is good for health."
+      ],
+      [
+        "cosmetic",
+        "表面的；美容的",
+        "cosmetic change",
+        "The change was cosmetic, not fundamental."
+      ],
+      [
+        "worthless",
+        "毫无价值的",
+        "worthless information",
+        "The data are worthless without proper labels."
+      ],
+      [
+        "priceless",
+        "极其珍贵的；无价的",
+        "priceless experience",
+        "My research experience is priceless."
+      ],
+      [
+        "affect",
+        "动词：影响",
+        "affect performance",
+        "Humidity affects sensor performance."
+      ],
+      [
+        "effect",
+        "名词：影响；效果",
+        "have an effect on",
+        "Humidity has an effect on sensor performance."
+      ],
+      [
+        "economic",
+        "经济方面的",
+        "economic growth / economic policy",
+        "The project has economic benefits."
+      ],
+      [
+        "economical",
+        "节约的；经济实惠的",
+        "an economical design",
+        "An economical design reduces material costs."
+      ],
+      [
+        "historic",
+        "有历史意义的",
+        "a historic event",
+        "The discovery was a historic event."
+      ],
+      [
+        "historical",
+        "与历史有关的",
+        "historical records",
+        "The paper uses historical records."
+      ],
+      [
+        "sensible",
+        "明智的；合理的",
+        "a sensible decision",
+        "It is sensible to test the circuit first."
+      ],
+      [
+        "sensitive",
+        "敏感的；灵敏的",
+        "sensitive to humidity",
+        "The sensor is sensitive to humidity."
+      ],
+      [
+        "adapt",
+        "适应；改编",
+        "adapt to a new environment",
+        "The model must adapt to changing conditions."
+      ],
+      [
+        "adopt",
+        "采用；采纳",
+        "adopt a method",
+        "We adopted a new classification method."
+      ],
+      [
+        "rise",
+        "上升（不及物）",
+        "prices rise / temperature rises",
+        "The temperature rises during the test."
+      ],
+      [
+        "raise",
+        "提高；举起（及物）",
+        "raise the temperature",
+        "We raised the temperature to 60°C."
+      ],
+      [
+        "assure",
+        "向某人保证",
+        "assure sb. that",
+        "The supervisor assured me that the data were safe."
+      ],
+      [
+        "ensure",
+        "确保；保证某事发生",
+        "ensure safety / accuracy",
+        "We must ensure measurement accuracy."
+      ],
+      [
+        "insure",
+        "投保；为……保险",
+        "insure a vehicle",
+        "The company insured the equipment."
+      ],
+      [
+        "access",
+        "名词：使用机会；动词：访问",
+        "have access to data",
+        "Students have access to the laboratory."
+      ],
+      [
+        "assess",
+        "评估",
+        "assess performance",
+        "We assessed the model's performance."
+      ],
+      [
+        "imply",
+        "暗示；意味着（说话者/文本发出）",
+        "imply that",
+        "The result implies that humidity matters."
+      ],
+      [
+        "infer",
+        "推断（读者/研究者得出）",
+        "infer from data",
+        "We can infer the cause from the data."
+      ],
+      [
+        "principal",
+        "主要的；校长/负责人",
+        "the principal reason",
+        "The principal reason is poor calibration."
+      ],
+      [
+        "principle",
+        "原则；原理",
+        "basic principles",
+        "We need to understand the basic principles."
+      ],
+      [
+        "compliment",
+        "赞美；恭维",
+        "pay sb. a compliment",
+        "The professor paid me a compliment."
+      ],
+      [
+        "complement",
+        "补充；使更完整",
+        "complement each other",
+        "Hardware and software complement each other."
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-74",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-75",
+    "text": "几个特别容易误判的短语",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-76",
+    "rows": [
+      [
+        "短语",
+        "意思",
+        "例句",
+        "中文"
+      ],
+      [
+        "account for",
+        "解释；占……比例",
+        "Several factors may account for the result.",
+        "几个因素可能解释这一结果。"
+      ],
+      [
+        "take ... into account",
+        "把……考虑进去",
+        "Take temperature into account.",
+        "把温度考虑进去。"
+      ],
+      [
+        "besides",
+        "此外；除……之外还有",
+        "Besides collecting data, I analyze it.",
+        "除了采集数据，我还分析数据。"
+      ],
+      [
+        "except",
+        "除……之外（排除）",
+        "All samples passed except one.",
+        "除一个样本外，其他样本都通过了。"
+      ],
+      [
+        "result in",
+        "导致（后接结果）",
+        "Poor contact results in signal noise.",
+        "接触不良导致信号噪声。"
+      ],
+      [
+        "result from",
+        "由……引起（后接原因）",
+        "Signal noise results from poor contact.",
+        "信号噪声由接触不良引起。"
+      ],
+      [
+        "demand",
+        "需求；要求；要求某事",
+        "demand for energy / meet demand",
+        "Energy demand continues to grow."
+      ],
+      [
+        "require",
+        "需要；要求",
+        "require further testing",
+        "The device requires further testing."
+      ],
+      [
+        "warrant",
+        "使……有必要/有充分理由",
+        "warrant further research",
+        "The result warrants further research."
+      ],
+      [
+        "appeal",
+        "吸引力；呼吁；上诉",
+        "have broad appeal / appeal to users",
+        "The simple design has broad appeal."
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-77",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-78",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-79",
+    "text": "05  六级翻译与阅读常见表达",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-80",
+    "rows": [
+      [
+        "建议  这些表达适合六级翻译、作文，也可以迁移到雅思口语和博士面试。注意固定搭配和动词形式。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-81",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-82",
+    "rows": [
+      [
+        "表达",
+        "中文",
+        "例句",
+        "中文"
+      ],
+      [
+        "deserve our attention",
+        "值得我们关注",
+        "Environmental protection deserves our attention.",
+        "环境保护值得我们关注。"
+      ],
+      [
+        "look at sth. from different perspectives",
+        "从不同角度看待某事",
+        "We should look at AI from different perspectives.",
+        "我们应该从不同角度看待 AI。"
+      ],
+      [
+        "practical implications",
+        "实际影响；实践意义",
+        "The research has practical implications for sensor design.",
+        "这项研究对传感器设计具有实践意义。"
+      ],
+      [
+        "provide sb. with sth.",
+        "向某人提供某物",
+        "The laboratory provides students with advanced equipment.",
+        "实验室为学生提供先进设备。"
+      ],
+      [
+        "provide places for leisure and social activities",
+        "提供休闲和社交活动场所",
+        "Public parks provide residents with places for leisure and social activities.",
+        "公园为居民提供休闲和社交活动场所。"
+      ],
+      [
+        "improve conditions for",
+        "改善……的条件",
+        "New facilities improve conditions for outdoor activities.",
+        "新设施改善了户外活动条件。"
+      ],
+      [
+        "make cities more beautiful",
+        "使城市更美丽",
+        "Green spaces can make cities more beautiful.",
+        "绿地可以让城市更加美丽。"
+      ],
+      [
+        "enter overseas markets",
+        "进入海外市场",
+        "The company plans to enter overseas markets.",
+        "公司计划进入海外市场。"
+      ],
+      [
+        "expand market share",
+        "扩大市场份额",
+        "New products may help the company expand its market share.",
+        "新产品可能帮助公司扩大市场份额。"
+      ],
+      [
+        "enhance global influence",
+        "提升全球影响力",
+        "Scientific cooperation can enhance global influence.",
+        "科研合作可以提升全球影响力。"
+      ],
+      [
+        "feature Chinese elements",
+        "以中国元素为特色",
+        "Some cultural products feature Chinese elements.",
+        "一些文化产品以中国元素为特色。"
+      ],
+      [
+        "be favored by consumers",
+        "受到消费者青睐",
+        "Reliable products are often favored by consumers.",
+        "可靠的产品往往受到消费者青睐。"
+      ],
+      [
+        "be purchased with government funds",
+        "由政府资金购买",
+        "The equipment was purchased with government funds.",
+        "这些设备由政府资金购买。"
+      ],
+      [
+        "be built by workers",
+        "由工人建造",
+        "The bridge was built by local workers.",
+        "这座桥由当地工人建造。"
+      ],
+      [
+        "prepare A for B",
+        "使 A 为 B 做准备",
+        "Research experience prepares students for doctoral study.",
+        "科研经历为学生读博做准备。"
+      ],
+      [
+        "Only in this way can we ...",
+        "只有这样，我们才能……（部分倒装）",
+        "Only in this way can we improve the system.",
+        "只有这样，我们才能改进系统。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-83",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-84",
+    "text": "六级阅读中常见的逻辑表达",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-85",
+    "rows": [
+      [
+        "表达",
+        "意思",
+        "例句",
+        "中文"
+      ],
+      [
+        "notwithstanding",
+        "尽管",
+        "Notwithstanding these problems, the project continued.",
+        "尽管存在这些问题，项目仍继续进行。"
+      ],
+      [
+        "even as",
+        "与此同时；正当……时",
+        "Demand increased even as costs rose.",
+        "成本上升的同时，需求也增加了。"
+      ],
+      [
+        "to some extent",
+        "在某种程度上",
+        "To some extent, the results depend on the test conditions.",
+        "在某种程度上，结果取决于测试条件。"
+      ],
+      [
+        "in a way that takes into account",
+        "以一种考虑到……的方式",
+        "The system should be designed in a way that takes into account user needs.",
+        "系统设计应考虑用户需求。"
+      ],
+      [
+        "more than five decades later",
+        "五十多年以后",
+        "More than five decades later, the technology remains important.",
+        "五十多年后，这项技术仍然重要。"
+      ],
+      [
+        "far more ... than is often assumed",
+        "远比通常认为的……",
+        "The problem is far more complex than is often assumed.",
+        "这个问题远比通常认为的复杂。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-86",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-87",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-88",
+    "text": "06  自测：中文提示，自己组织英文",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-89",
+    "rows": [
+      [
+        "做题方式  先遮住答案。不要逐字翻译中文，先选对句型，再组织英语。允许使用简单词汇。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-90",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-91",
+    "text": "01. 我对功率电子很感兴趣。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-92",
+    "text": "提示：be interested in doing / sth.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-93",
+    "text": "参考答案：I am interested in power electronics.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-94",
+    "text": "02. 我正在考虑使用机器学习分析传感器数据。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-95",
+    "text": "提示：consider doing",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-96",
+    "text": "参考答案：I am considering using machine learning to analyze sensor data.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-97",
+    "text": "03. 温度会影响传感器的性能。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-98",
+    "text": "提示：have an impact on / affect",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-99",
+    "text": "参考答案：Temperature has an impact on sensor performance. / Temperature affects sensor performance.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-100",
+    "text": "04. 我们需要把湿度考虑进去。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-101",
+    "text": "提示：take ... into account",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-102",
+    "text": "参考答案：We need to take humidity into account.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-103",
+    "text": "05. 这个算法帮助我们识别异常数据。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-104",
+    "text": "提示：help sb. do",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-105",
+    "text": "参考答案：This algorithm helps us identify abnormal data.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-106",
+    "text": "06. 我希望将来在日本攻读博士学位。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-107",
+    "text": "提示：hope to do",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-108",
+    "text": "参考答案：I hope to pursue a PhD in Japan in the future.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-109",
+    "text": "07. 虽然模型比较简单，但它很有用。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-110",
+    "text": "提示：Although ..., ...",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-111",
+    "text": "参考答案：Although the model is simple, it is useful.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-112",
+    "text": "08. 我正在研究一种能够检测气体的传感器。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-113",
+    "text": "提示：名词 + that 定语从句",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-114",
+    "text": "参考答案：I am studying a sensor that can detect gases.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-115",
+    "text": "09. 这项结果值得进一步研究。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-116",
+    "text": "提示：warrant further research",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-117",
+    "text": "参考答案：This result warrants further research.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-118",
+    "text": "10. 除了采集数据，我还负责分析数据。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-119",
+    "text": "提示：Besides doing, ...",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-120",
+    "text": "参考答案：Besides collecting data, I am also responsible for analyzing it.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-121",
+    "text": "11. 信号噪声可能由接触不良引起。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-122",
+    "text": "提示：result from",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-123",
+    "text": "参考答案：Signal noise may result from poor contact.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-124",
+    "text": "12. 只有这样，我们才能提高系统的可靠性。",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-125",
+    "text": "提示：Only in this way can we ...",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-126",
+    "text": "参考答案：Only in this way can we improve system reliability.",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-127",
+    "text": "07  每日复习方法",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-128",
+    "rows": [
+      [
+        "步骤",
+        "怎么做"
+      ],
+      [
+        "第 1 遍：看中文说英文",
+        "先遮住英文，自己回忆搭配和句子。"
+      ],
+      [
+        "第 2 遍：替换一个信息",
+        "把例句中的 AI 换成 sensor，把 study 换成 research。"
+      ],
+      [
+        "第 3 遍：换成自己的经历",
+        "用自己的课程、实验、项目或博士规划造句。"
+      ],
+      [
+        "第 4 遍：隔天复述",
+        "第二天不看资料，再说一次；卡住的搭配做标记。"
+      ],
+      [
+        "第 5 遍：放进真实回答",
+        "回答一个雅思 Part 3、TOEFL 或博士面试问题。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-129",
+    "text": "",
+    "type": "paragraph"
+  },
+  {
+    "id": "word-130",
+    "rows": [
+      [
+        "最重要的提醒  你不需要一次背完这份资料。先把最常用的 20 个搭配练到能脱口而出，再逐步增加。每学一个搭配，至少自己造 2 个新句子；只会认、不敢用，就还没有真正掌握。"
+      ]
+    ],
+    "type": "table"
+  },
+  {
+    "id": "word-131",
+    "text": "",
+    "type": "paragraph"
+  }
+]

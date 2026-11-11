@@ -1,0 +1,4 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
+const read=(name:string)=>JSON.parse(fs.readFileSync(new URL('../src/data/'+name,import.meta.url),'utf8'));
+test('all original document blocks and source rows retained',()=>{const source=read('source.json'),items=read('items.json');assert.equal(source.length,131);assert.equal(source.filter((b:any)=>b.type==='table').length,28);for(const b of source.filter((b:any)=>b.rows?.length>1&&b.rows[0].length>=4)){for(let n=1;n<b.rows.length;n++){assert.ok(items.some((x:any)=>x.id.startsWith(`${b.id}-r${n}`)),`${b.id} row ${n}`);}}assert.equal(new Set(items.map((x:any)=>x.id)).size,items.length);});
+test('twelve original exercises retain real prompts and answers',()=>{const e=read('exercises.json');assert.equal(e.length,12);assert.match(e[0].prompt,/功率电子/);assert.match(e[11].answer,/Only in this way/);});

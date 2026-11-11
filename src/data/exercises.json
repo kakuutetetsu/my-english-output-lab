@@ -1,0 +1,86 @@
+[
+  {
+    "id": "exercise-1",
+    "prompt": "我对功率电子很感兴趣。",
+    "hint": "be interested in doing / sth.",
+    "answer": "I am interested in power electronics.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-4",
+    "prompt": "我正在考虑使用机器学习分析传感器数据。",
+    "hint": "consider doing",
+    "answer": "I am considering using machine learning to analyze sensor data.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-7",
+    "prompt": "温度会影响传感器的性能。",
+    "hint": "have an impact on / affect",
+    "answer": "Temperature has an impact on sensor performance. / Temperature affects sensor performance.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-10",
+    "prompt": "我们需要把湿度考虑进去。",
+    "hint": "take ... into account",
+    "answer": "We need to take humidity into account.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-13",
+    "prompt": "这个算法帮助我们识别异常数据。",
+    "hint": "help sb. do",
+    "answer": "This algorithm helps us identify abnormal data.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-16",
+    "prompt": "我希望将来在日本攻读博士学位。",
+    "hint": "hope to do",
+    "answer": "I hope to pursue a PhD in Japan in the future.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-19",
+    "prompt": "虽然模型比较简单，但它很有用。",
+    "hint": "Although ..., ...",
+    "answer": "Although the model is simple, it is useful.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-22",
+    "prompt": "我正在研究一种能够检测气体的传感器。",
+    "hint": "名词 + that 定语从句",
+    "answer": "I am studying a sensor that can detect gases.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-25",
+    "prompt": "这项结果值得进一步研究。",
+    "hint": "warrant further research",
+    "answer": "This result warrants further research.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-28",
+    "prompt": "除了采集数据，我还负责分析数据。",
+    "hint": "Besides doing, ...",
+    "answer": "Besides collecting data, I am also responsible for analyzing it.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-31",
+    "prompt": "信号噪声可能由接触不良引起。",
+    "hint": "result from",
+    "answer": "Signal noise may result from poor contact.",
+    "source": "word"
+  },
+  {
+    "id": "exercise-34",
+    "prompt": "只有这样，我们才能提高系统的可靠性。",
+    "hint": "Only in this way can we ...",
+    "answer": "Only in this way can we improve system reliability.",
+    "source": "word"
+  }
+]
